@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Super Usuario del Sistema",
+    "username": "root",
+    "password": "VTJGc2RHVmtYMS9UWFJwMlBqSk4zaTNZNWwyUjBub0pWNEppZDAwdWxpQT0=",
+    "passport": "local",
+    "active": true,
+    "lastAccessDate": "2015-11-17T00:00:00.000Z",
+    "lastAccessAddress": "",
+    "expirationDate": "2016-12-17T00:00:00.000Z",
+    "defaultRoleId": 1,
+    "createdAt": "2015-12-03T08:26:32.257Z",
+    "updatedAt": "2016-02-24T04:58:17.671Z"
+  },
+  {
+    "id": 2,
+    "name": "Desarrollador del Sistema",
+    "username": "dev",
+    "password": "VTJGc2RHVmtYMStSY1FkdW9NWCtza2pvY241VXNUbytHZ2JkK0JLMGxDST0=",
+    "passport": "local",
+    "active": true,
+    "lastAccessDate": null,
+    "lastAccessAddress": null,
+    "expirationDate": "2017-01-15T00:00:00.000Z",
+    "defaultRoleId": 2,
+    "createdAt": "2016-01-13T22:48:27.260Z",
+    "updatedAt": "2016-01-19T04:02:48.962Z"
+  }
+]

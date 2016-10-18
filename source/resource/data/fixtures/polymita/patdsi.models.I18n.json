@@ -1,0 +1,2562 @@
+[
+  {
+    "id": 1,
+    "name": "title",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Título",
+    "createdAt": "2015-12-03T08:26:32.021Z",
+    "updatedAt": "2015-12-03T08:26:32.021Z"
+  },
+  {
+    "id": 2,
+    "name": "CONFIRM-DELETE",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Messages",
+    "value": "¿Desea realmente eliminar el registro seleccionado?",
+    "createdAt": "2015-12-03T08:26:32.022Z",
+    "updatedAt": "2015-12-03T08:26:32.022Z"
+  },
+  {
+    "id": 3,
+    "name": "name",
+    "locale": "es",
+    "catalog": "I18ns",
+    "subCatalog": "Labels",
+    "value": "Etiqueta",
+    "createdAt": "2015-12-03T08:26:32.023Z",
+    "updatedAt": "2015-12-03T08:26:32.023Z"
+  },
+  {
+    "id": 4,
+    "name": "ok",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Ok",
+    "createdAt": "2015-12-03T08:26:32.023Z",
+    "updatedAt": "2015-12-03T08:26:32.023Z"
+  },
+  {
+    "id": 5,
+    "name": "edit",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Editar",
+    "createdAt": "2015-12-03T08:26:32.024Z",
+    "updatedAt": "2015-12-03T08:26:32.024Z"
+  },
+  {
+    "id": 6,
+    "name": "locale",
+    "locale": "es",
+    "catalog": "I18ns",
+    "subCatalog": "Labels",
+    "value": "Lenguaje",
+    "createdAt": "2015-12-03T08:26:32.025Z",
+    "updatedAt": "2015-12-03T08:26:32.025Z"
+  },
+  {
+    "id": 7,
+    "name": "CONFIRM-TITLE",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Messages",
+    "value": "Confirmación",
+    "createdAt": "2015-12-03T08:26:32.025Z",
+    "updatedAt": "2015-12-03T08:26:32.025Z"
+  },
+  {
+    "id": 8,
+    "name": "title",
+    "locale": "es",
+    "catalog": "Application",
+    "subCatalog": "Labels",
+    "value": "Título del sistema",
+    "createdAt": "2015-12-03T08:26:32.026Z",
+    "updatedAt": "2015-12-03T08:26:32.026Z"
+  },
+  {
+    "id": 9,
+    "name": "disabled",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Deshabilitado",
+    "createdAt": "2015-12-03T08:26:32.026Z",
+    "updatedAt": "2015-12-03T08:26:32.026Z"
+  },
+  {
+    "id": 10,
+    "name": "CONFIRM-DELETE",
+    "locale": "es",
+    "catalog": "Modules",
+    "subCatalog": "Messages",
+    "value": "¿Desea realmente eliminar el módulo seleccionado?",
+    "createdAt": "2015-12-03T08:26:32.027Z",
+    "updatedAt": "2015-12-03T08:26:32.027Z"
+  },
+  {
+    "id": 11,
+    "name": "value",
+    "locale": "es",
+    "catalog": "I18ns",
+    "subCatalog": "Labels",
+    "value": "Traducción",
+    "createdAt": "2015-12-03T08:26:32.027Z",
+    "updatedAt": "2015-12-03T08:26:32.027Z"
+  },
+  {
+    "id": 12,
+    "name": "remove",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Eliminar",
+    "createdAt": "2015-12-03T08:26:32.028Z",
+    "updatedAt": "2015-12-03T08:26:32.028Z"
+  },
+  {
+    "id": 13,
+    "name": "place",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Orden",
+    "createdAt": "2015-12-03T08:26:32.028Z",
+    "updatedAt": "2015-12-03T08:26:32.028Z"
+  },
+  {
+    "id": 14,
+    "name": "name",
+    "locale": "es",
+    "catalog": "Modules",
+    "subCatalog": "Labels",
+    "value": "Módulo",
+    "createdAt": "2015-12-03T08:26:32.028Z",
+    "updatedAt": "2015-12-03T08:26:32.028Z"
+  },
+  {
+    "id": 15,
+    "name": "catalog",
+    "locale": "es",
+    "catalog": "I18ns",
+    "subCatalog": "Labels",
+    "value": "Catálogo",
+    "createdAt": "2015-12-03T08:26:32.029Z",
+    "updatedAt": "2015-12-03T08:26:32.029Z"
+  },
+  {
+    "id": 16,
+    "name": "Edit",
+    "locale": "es",
+    "catalog": "Users",
+    "subCatalog": "Titles",
+    "value": "Datos del usuario:",
+    "createdAt": "2015-12-05T07:28:49.000Z",
+    "updatedAt": "2015-12-10T06:17:03.202Z"
+  },
+  {
+    "id": 17,
+    "name": "createdAt",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Creado",
+    "createdAt": "2015-12-03T08:26:32.029Z",
+    "updatedAt": "2015-12-03T08:26:32.029Z"
+  },
+  {
+    "id": 18,
+    "name": "add",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Añadir",
+    "createdAt": "2015-12-03T08:26:32.030Z",
+    "updatedAt": "2015-12-03T08:26:32.030Z"
+  },
+  {
+    "id": 19,
+    "name": "save",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Guardar",
+    "createdAt": "2015-12-03T08:26:32.030Z",
+    "updatedAt": "2015-12-03T08:26:32.030Z"
+  },
+  {
+    "id": 20,
+    "name": "modules",
+    "locale": "es",
+    "catalog": "Modules",
+    "subCatalog": "Labels",
+    "value": "Módulos",
+    "createdAt": "2015-12-03T08:26:32.031Z",
+    "updatedAt": "2015-12-03T08:26:32.031Z"
+  },
+  {
+    "id": 21,
+    "name": "subCatalog",
+    "locale": "es",
+    "catalog": "I18ns",
+    "subCatalog": "Labels",
+    "value": "Sub-Catálogo",
+    "createdAt": "2015-12-03T08:26:32.031Z",
+    "updatedAt": "2015-12-03T08:26:32.031Z"
+  },
+  {
+    "id": 22,
+    "name": "cancel",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Cancelar",
+    "createdAt": "2015-12-03T08:26:32.031Z",
+    "updatedAt": "2015-12-03T08:26:32.031Z"
+  },
+  {
+    "id": 23,
+    "name": "updatedAt",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Actualizado",
+    "createdAt": "2015-12-03T08:26:32.032Z",
+    "updatedAt": "2015-12-03T08:26:32.032Z"
+  },
+  {
+    "id": 24,
+    "name": "undo",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Deshacer",
+    "createdAt": "2015-12-03T08:26:32.032Z",
+    "updatedAt": "2015-12-03T08:26:32.032Z"
+  },
+  {
+    "id": 25,
+    "name": "savingChanges",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Messages",
+    "value": "Guardando los cambios...",
+    "createdAt": "2015-12-03T08:26:32.033Z",
+    "updatedAt": "2015-12-03T08:26:32.033Z"
+  },
+  {
+    "id": 26,
+    "name": "yes",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "si",
+    "createdAt": "2015-12-03T08:26:32.034Z",
+    "updatedAt": "2015-12-03T08:26:32.034Z"
+  },
+  {
+    "id": 27,
+    "name": "no",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "no",
+    "createdAt": "2015-12-03T08:26:32.034Z",
+    "updatedAt": "2015-12-03T08:26:32.034Z"
+  },
+  {
+    "id": 28,
+    "name": "parentId",
+    "locale": "es",
+    "catalog": "Modules",
+    "subCatalog": "Labels",
+    "value": "Submódulo de",
+    "createdAt": "2015-12-03T08:26:32.035Z",
+    "updatedAt": "2015-12-03T08:26:32.035Z"
+  },
+  {
+    "id": 29,
+    "name": "value",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Valor",
+    "createdAt": "2015-12-03T08:26:32.036Z",
+    "updatedAt": "2015-12-03T08:26:32.036Z"
+  },
+  {
+    "id": 30,
+    "name": "id",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Código",
+    "createdAt": "2015-12-03T08:26:32.037Z",
+    "updatedAt": "2015-12-03T08:26:32.037Z"
+  },
+  {
+    "id": 32,
+    "name": "saveFinish",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Guardar y terminar",
+    "createdAt": "2015-12-03T08:26:32.037Z",
+    "updatedAt": "2015-12-03T08:26:32.037Z"
+  },
+  {
+    "id": 33,
+    "name": "components",
+    "locale": "es",
+    "catalog": "Modules",
+    "subCatalog": "Labels",
+    "value": "Componentes",
+    "createdAt": "2015-12-03T08:26:32.038Z",
+    "updatedAt": "2015-12-03T08:26:32.038Z"
+  },
+  {
+    "id": 34,
+    "name": "widgetClass",
+    "locale": "es",
+    "catalog": "Components",
+    "subCatalog": "Labels",
+    "value": "Tipo de componente",
+    "createdAt": "2015-12-03T08:26:32.038Z",
+    "updatedAt": "2015-12-03T08:26:32.038Z"
+  },
+  {
+    "id": 35,
+    "name": "jsId",
+    "locale": "es",
+    "catalog": "Components",
+    "subCatalog": "Labels",
+    "value": "Identificador del objeto",
+    "createdAt": "2015-12-03T08:26:32.039Z",
+    "updatedAt": "2015-12-03T08:26:32.039Z"
+  },
+  {
+    "id": 37,
+    "name": "properties",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Propiedades",
+    "createdAt": "2015-12-03T08:26:32.039Z",
+    "updatedAt": "2015-12-03T08:26:32.039Z"
+  },
+  {
+    "id": 38,
+    "name": "add",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Messages",
+    "value": "Detalles del nuevo elemento",
+    "createdAt": "2015-12-03T08:26:32.039Z",
+    "updatedAt": "2015-12-03T08:26:32.039Z"
+  },
+  {
+    "id": 39,
+    "name": "CONFIRM-CLOSE",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Messages",
+    "value": "¿Desea realmente cerrar este módulo?",
+    "createdAt": "2015-12-03T08:26:32.040Z",
+    "updatedAt": "2015-12-03T08:26:32.040Z"
+  },
+  {
+    "id": 42,
+    "name": "i18n",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Catálogo I18n",
+    "createdAt": "2015-12-03T08:26:32.040Z",
+    "updatedAt": "2015-12-03T08:26:32.040Z"
+  },
+  {
+    "id": 44,
+    "name": "restServiceURL",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "URL del Servicio",
+    "createdAt": "2015-12-03T08:26:32.041Z",
+    "updatedAt": "2015-12-03T08:26:32.041Z"
+  },
+  {
+    "id": 46,
+    "name": "action",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Acción",
+    "createdAt": "2015-12-03T08:26:32.041Z",
+    "updatedAt": "2015-12-03T08:26:32.041Z"
+  },
+  {
+    "id": 47,
+    "name": "mask",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Mascara de acceso",
+    "createdAt": "2015-12-03T08:26:32.042Z",
+    "updatedAt": "2015-12-03T08:26:32.042Z"
+  },
+  {
+    "id": 48,
+    "name": "containerModules",
+    "locale": "es",
+    "catalog": "Modules",
+    "subCatalog": "Messages",
+    "value": "El módulo '${title}' es solo un contenedor de submódulos.",
+    "createdAt": "2015-12-03T08:26:32.042Z",
+    "updatedAt": "2015-12-03T08:26:32.042Z"
+  },
+  {
+    "id": 49,
+    "name": "EMPTY",
+    "locale": "es",
+    "catalog": "Modules",
+    "subCatalog": "Messages",
+    "value": "El módulo '%1' no contiene submódulos ni componentes asociados.",
+    "createdAt": "2015-12-03T08:26:32.042Z",
+    "updatedAt": "2015-12-03T08:26:32.042Z"
+  },
+  {
+    "id": 50,
+    "name": "name",
+    "locale": "es",
+    "catalog": "Fields",
+    "subCatalog": "Labels",
+    "value": "Campo",
+    "createdAt": "2015-12-03T08:26:32.043Z",
+    "updatedAt": "2015-12-03T08:26:32.043Z"
+  },
+  {
+    "id": 51,
+    "name": "width",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Ancho",
+    "createdAt": "2015-12-03T08:26:32.043Z",
+    "updatedAt": "2015-12-03T08:26:32.043Z"
+  },
+  {
+    "id": 52,
+    "name": "gridColumnStyles",
+    "locale": "es",
+    "catalog": "Fields",
+    "subCatalog": "Labels",
+    "value": "Estilo de la celda",
+    "createdAt": "2015-12-03T08:26:32.043Z",
+    "updatedAt": "2015-12-03T08:26:32.043Z"
+  },
+  {
+    "id": 53,
+    "name": "editable",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Editable",
+    "createdAt": "2015-12-03T08:26:32.044Z",
+    "updatedAt": "2015-12-03T08:26:32.044Z"
+  },
+  {
+    "id": 54,
+    "name": "widgetClass",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Tipo de componente",
+    "createdAt": "2015-12-03T08:26:32.044Z",
+    "updatedAt": "2015-12-03T08:26:32.044Z"
+  },
+  {
+    "id": 55,
+    "name": "widgetProps",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Propiedades del componente",
+    "createdAt": "2015-12-03T08:26:32.045Z",
+    "updatedAt": "2015-12-03T08:26:32.045Z"
+  },
+  {
+    "id": 56,
+    "name": "gridColumnWidth",
+    "locale": "es",
+    "catalog": "Fields",
+    "subCatalog": "Labels",
+    "value": "Ancho de celda",
+    "createdAt": "2015-12-03T08:26:32.045Z",
+    "updatedAt": "2015-12-03T08:26:32.045Z"
+  },
+  {
+    "id": 57,
+    "name": "styles",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Estilos CSS",
+    "createdAt": "2015-12-03T08:26:32.045Z",
+    "updatedAt": "2015-12-03T08:26:32.045Z"
+  },
+  {
+    "id": 58,
+    "name": "constraints",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Restricciones",
+    "createdAt": "2015-12-03T08:26:32.046Z",
+    "updatedAt": "2015-12-03T08:26:32.046Z"
+  },
+  {
+    "id": 59,
+    "name": "reload",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Recargar",
+    "createdAt": "2015-12-03T08:26:32.046Z",
+    "updatedAt": "2015-12-03T08:26:32.046Z"
+  },
+  {
+    "id": 61,
+    "name": "port",
+    "locale": "es",
+    "catalog": "Connection",
+    "subCatalog": "Labels",
+    "value": "Puerto",
+    "createdAt": "2015-12-03T08:26:32.047Z",
+    "updatedAt": "2015-12-03T08:26:32.047Z"
+  },
+  {
+    "id": 62,
+    "name": "adapter",
+    "locale": "es",
+    "catalog": "Connection",
+    "subCatalog": "Labels",
+    "value": "Tipo de BD",
+    "createdAt": "2015-12-03T08:26:32.047Z",
+    "updatedAt": "2015-12-03T08:26:32.047Z"
+  },
+  {
+    "id": 64,
+    "name": "host",
+    "locale": "es",
+    "catalog": "Connection",
+    "subCatalog": "Labels",
+    "value": "Servidor",
+    "createdAt": "2015-12-03T08:26:32.047Z",
+    "updatedAt": "2015-12-03T08:26:32.047Z"
+  },
+  {
+    "id": 65,
+    "name": "username",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Usuario",
+    "createdAt": "2015-12-03T08:26:32.048Z",
+    "updatedAt": "2015-12-03T08:26:32.048Z"
+  },
+  {
+    "id": 66,
+    "name": "password",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Contraseña",
+    "createdAt": "2015-12-03T08:26:32.048Z",
+    "updatedAt": "2015-12-03T08:26:32.048Z"
+  },
+  {
+    "id": 68,
+    "name": "pool",
+    "locale": "es",
+    "catalog": "Connection",
+    "subCatalog": "Labels",
+    "value": "Hilos",
+    "createdAt": "2015-12-03T08:26:32.049Z",
+    "updatedAt": "2015-12-03T08:26:32.049Z"
+  },
+  {
+    "id": 69,
+    "name": "timeout",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Tiempo de espera",
+    "createdAt": "2015-12-03T08:26:32.049Z",
+    "updatedAt": "2015-12-03T08:26:32.049Z"
+  },
+  {
+    "id": 80,
+    "name": "region",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Región",
+    "createdAt": "2015-12-03T08:26:32.050Z",
+    "updatedAt": "2015-12-03T08:26:32.050Z"
+  },
+  {
+    "id": 81,
+    "name": "left",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Izquierda",
+    "createdAt": "2015-12-03T08:26:32.050Z",
+    "updatedAt": "2015-12-03T08:26:32.050Z"
+  },
+  {
+    "id": 82,
+    "name": "justify",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Justificado",
+    "createdAt": "2015-12-03T08:26:32.051Z",
+    "updatedAt": "2015-12-03T08:26:32.051Z"
+  },
+  {
+    "id": 83,
+    "name": "center",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Centrado",
+    "createdAt": "2015-12-03T08:26:32.051Z",
+    "updatedAt": "2015-12-03T08:26:32.051Z"
+  },
+  {
+    "id": 84,
+    "name": "inherit",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Heredado",
+    "createdAt": "2015-12-03T08:26:32.051Z",
+    "updatedAt": "2015-12-03T08:26:32.051Z"
+  },
+  {
+    "id": 85,
+    "name": "normal",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Normal",
+    "createdAt": "2015-12-03T08:26:32.052Z",
+    "updatedAt": "2015-12-03T08:26:32.052Z"
+  },
+  {
+    "id": 86,
+    "name": "bold",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Grueso",
+    "createdAt": "2015-12-03T08:26:32.052Z",
+    "updatedAt": "2015-12-03T08:26:32.052Z"
+  },
+  {
+    "id": 87,
+    "name": "font-family",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Tipo de letra",
+    "createdAt": "2015-12-03T08:26:32.053Z",
+    "updatedAt": "2015-12-03T08:26:32.053Z"
+  },
+  {
+    "id": 88,
+    "name": "font-style",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Estilo de letra",
+    "createdAt": "2015-12-03T08:26:32.053Z",
+    "updatedAt": "2015-12-03T08:26:32.053Z"
+  },
+  {
+    "id": 89,
+    "name": "font-size",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Tamaño de letra",
+    "createdAt": "2015-12-03T08:26:32.053Z",
+    "updatedAt": "2015-12-03T08:26:32.053Z"
+  },
+  {
+    "id": 90,
+    "name": "color",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Color de letra",
+    "createdAt": "2015-12-03T08:26:32.054Z",
+    "updatedAt": "2015-12-03T08:26:32.054Z"
+  },
+  {
+    "id": 91,
+    "name": "font-weight",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Ancho de letra",
+    "createdAt": "2015-12-03T08:26:32.054Z",
+    "updatedAt": "2015-12-03T08:26:32.054Z"
+  },
+  {
+    "id": 92,
+    "name": "text-align",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Alineación del texto",
+    "createdAt": "2015-12-03T08:26:32.055Z",
+    "updatedAt": "2015-12-03T08:26:32.055Z"
+  },
+  {
+    "id": 93,
+    "name": "text-transform",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Transformación",
+    "createdAt": "2015-12-03T08:26:32.055Z",
+    "updatedAt": "2015-12-03T08:26:32.055Z"
+  },
+  {
+    "id": 94,
+    "name": "capitalize",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "1ra letra en mayúscula",
+    "createdAt": "2015-12-03T08:26:32.055Z",
+    "updatedAt": "2015-12-03T08:26:32.055Z"
+  },
+  {
+    "id": 95,
+    "name": "lowercase",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Todo en minúscula",
+    "createdAt": "2015-12-03T08:26:32.056Z",
+    "updatedAt": "2015-12-03T08:26:32.056Z"
+  },
+  {
+    "id": 96,
+    "name": "none",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Ninguna",
+    "createdAt": "2015-12-03T08:26:32.056Z",
+    "updatedAt": "2015-12-03T08:26:32.056Z"
+  },
+  {
+    "id": 97,
+    "name": "uppercase",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Todo en mayúscula",
+    "createdAt": "2015-12-03T08:26:32.057Z",
+    "updatedAt": "2015-12-03T08:26:32.057Z"
+  },
+  {
+    "id": 99,
+    "name": "lighter",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Fino",
+    "createdAt": "2015-12-03T08:26:32.057Z",
+    "updatedAt": "2015-12-03T08:26:32.057Z"
+  },
+  {
+    "id": 100,
+    "name": "required",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Requerido",
+    "createdAt": "2015-12-03T08:26:32.057Z",
+    "updatedAt": "2015-12-03T08:26:32.057Z"
+  },
+  {
+    "id": 101,
+    "name": "pattern",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Patrón",
+    "createdAt": "2015-12-03T08:26:32.058Z",
+    "updatedAt": "2015-12-03T08:26:32.058Z"
+  },
+  {
+    "id": 102,
+    "name": "minLength",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "L.Mínima",
+    "createdAt": "2015-12-03T08:26:32.058Z",
+    "updatedAt": "2015-12-03T08:26:32.058Z"
+  },
+  {
+    "id": 103,
+    "name": "maxLength",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "L.Máxima",
+    "createdAt": "2015-12-03T08:26:32.059Z",
+    "updatedAt": "2015-12-03T08:26:32.059Z"
+  },
+  {
+    "id": 104,
+    "name": "preview",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Vista previa",
+    "createdAt": "2015-12-03T08:26:32.059Z",
+    "updatedAt": "2015-12-03T08:26:32.059Z"
+  },
+  {
+    "id": 105,
+    "name": "APPLICATION TITLE",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "APPLICATION TITLE",
+    "createdAt": "2015-12-03T08:26:32.059Z",
+    "updatedAt": "2015-12-03T08:26:32.059Z"
+  },
+  {
+    "id": 106,
+    "name": "Add",
+    "locale": "es",
+    "catalog": "I18ns",
+    "subCatalog": "Titles",
+    "value": "Datos de la nueva internacionalización:",
+    "createdAt": "2015-12-03T08:26:32.060Z",
+    "updatedAt": "2015-12-03T08:26:32.060Z"
+  },
+  {
+    "id": 107,
+    "name": "SUCCESSFUL-UPDATE",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Messages",
+    "value": "El registro se actualizó satisfactoriamente.",
+    "createdAt": "2015-12-03T08:26:32.060Z",
+    "updatedAt": "2015-12-03T08:26:32.060Z"
+  },
+  {
+    "id": 116,
+    "name": "SUCCESSFUL-DELETE",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Messages",
+    "value": "El registro se eliminó satisfactoriamente.",
+    "createdAt": "2015-12-03T08:26:32.061Z",
+    "updatedAt": "2015-12-03T08:26:32.061Z"
+  },
+  {
+    "id": 122,
+    "name": "FAILED-ADD",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Messages",
+    "value": "La adición del nuevo registro falló.",
+    "createdAt": "2015-12-03T08:26:32.061Z",
+    "updatedAt": "2015-12-03T08:26:32.061Z"
+  },
+  {
+    "id": 123,
+    "name": "SUCCESSFUL-ADD",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Messages",
+    "value": "El registro se actualizó satisfactoriamente.",
+    "createdAt": "2015-12-03T08:26:32.061Z",
+    "updatedAt": "2015-12-03T08:26:32.061Z"
+  },
+  {
+    "id": 124,
+    "name": "verticalLayout",
+    "locale": "es",
+    "catalog": "Modules",
+    "subCatalog": "Labels",
+    "value": "Diseño vertical",
+    "createdAt": "2015-12-03T08:26:32.062Z",
+    "updatedAt": "2015-12-03T08:26:32.062Z"
+  },
+  {
+    "id": 125,
+    "name": "Add",
+    "locale": "es",
+    "catalog": "Modules",
+    "subCatalog": "Titles",
+    "value": "Datos del nuevo módulo:",
+    "createdAt": "2015-12-03T08:26:32.062Z",
+    "updatedAt": "2015-12-03T08:26:32.062Z"
+  },
+  {
+    "id": 126,
+    "name": "Edit",
+    "locale": "es",
+    "catalog": "Modules",
+    "subCatalog": "Titles",
+    "value": "Datos del módulo a actualizar:",
+    "createdAt": "2015-12-03T08:26:32.062Z",
+    "updatedAt": "2015-12-03T08:26:32.062Z"
+  },
+  {
+    "id": 127,
+    "name": "Edit",
+    "locale": "es",
+    "catalog": "I18ns",
+    "subCatalog": "Titles",
+    "value": "Datos de la internacionalización a actualizar:",
+    "createdAt": "2015-12-03T08:26:32.063Z",
+    "updatedAt": "2015-12-03T08:26:32.063Z"
+  },
+  {
+    "id": 128,
+    "name": "CONFIRMATION",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Titles",
+    "value": "Confirmación:",
+    "createdAt": "2015-12-03T08:26:32.064Z",
+    "updatedAt": "2015-12-03T08:26:32.064Z"
+  },
+  {
+    "id": 130,
+    "name": "Add",
+    "locale": "es",
+    "catalog": "Components",
+    "subCatalog": "Titles",
+    "value": "Datos del nuevo componente:",
+    "createdAt": "2015-12-03T08:26:32.064Z",
+    "updatedAt": "2015-12-03T08:26:32.064Z"
+  },
+  {
+    "id": 131,
+    "name": "Edit",
+    "locale": "es",
+    "catalog": "Components",
+    "subCatalog": "Titles",
+    "value": "Datos del componente a actualizar:",
+    "createdAt": "2015-12-03T08:26:32.065Z",
+    "updatedAt": "2015-12-03T08:26:32.065Z"
+  },
+  {
+    "id": 133,
+    "name": "formWidth",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Ancho del formulario",
+    "createdAt": "2015-12-03T08:26:32.065Z",
+    "updatedAt": "2015-12-03T08:26:32.065Z"
+  },
+  {
+    "id": 134,
+    "name": "formHeight",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Altura del formulario",
+    "createdAt": "2015-12-03T08:26:32.066Z",
+    "updatedAt": "2015-12-03T08:26:32.066Z"
+  },
+  {
+    "id": 135,
+    "name": "rowHeight",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Altura de las filas",
+    "createdAt": "2015-12-03T08:26:32.066Z",
+    "updatedAt": "2015-12-03T08:26:32.066Z"
+  },
+  {
+    "id": 136,
+    "name": "blockSize",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Filas por bloques",
+    "createdAt": "2015-12-03T08:26:32.066Z",
+    "updatedAt": "2015-12-03T08:26:32.066Z"
+  },
+  {
+    "id": 137,
+    "name": "maxCachedBlockCount",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Bloques en cache",
+    "createdAt": "2015-12-03T08:26:32.067Z",
+    "updatedAt": "2015-12-03T08:26:32.067Z"
+  },
+  {
+    "id": 138,
+    "name": "fields",
+    "locale": "es",
+    "catalog": "Components",
+    "subCatalog": "Labels",
+    "value": "Campos",
+    "createdAt": "2015-12-03T08:26:32.067Z",
+    "updatedAt": "2015-12-03T08:26:32.067Z"
+  },
+  {
+    "id": 139,
+    "name": "actions",
+    "locale": "es",
+    "catalog": "Components",
+    "subCatalog": "Labels",
+    "value": "Acciones",
+    "createdAt": "2015-12-03T08:26:32.068Z",
+    "updatedAt": "2015-12-03T08:26:32.068Z"
+  },
+  {
+    "id": 140,
+    "name": "validatorClass",
+    "locale": "es",
+    "catalog": "Fields",
+    "subCatalog": "Labels",
+    "value": "Validador",
+    "createdAt": "2015-12-03T08:26:32.068Z",
+    "updatedAt": "2015-12-03T08:26:32.068Z"
+  },
+  {
+    "id": 142,
+    "name": "showInGrid",
+    "locale": "es",
+    "catalog": "Fields",
+    "subCatalog": "Labels",
+    "value": "Mostrar en el grid",
+    "createdAt": "2015-12-03T08:26:32.071Z",
+    "updatedAt": "2015-12-03T08:26:32.071Z"
+  },
+  {
+    "id": 143,
+    "name": "accessInAddForm",
+    "locale": "es",
+    "catalog": "Fields",
+    "subCatalog": "Labels",
+    "value": "Acceso en adición",
+    "createdAt": "2015-12-03T08:26:32.072Z",
+    "updatedAt": "2015-12-03T08:26:32.072Z"
+  },
+  {
+    "id": 144,
+    "name": "accessInEditForm",
+    "locale": "es",
+    "catalog": "Fields",
+    "subCatalog": "Labels",
+    "value": "Acceso en edición",
+    "createdAt": "2015-12-03T08:26:32.072Z",
+    "updatedAt": "2015-12-03T08:26:32.072Z"
+  },
+  {
+    "id": 145,
+    "name": "Edit",
+    "locale": "es",
+    "catalog": "Fields",
+    "subCatalog": "Titles",
+    "value": "Datos del campo a actualizar:",
+    "createdAt": "2015-12-03T08:26:32.074Z",
+    "updatedAt": "2015-12-03T08:26:32.074Z"
+  },
+  {
+    "id": 149,
+    "name": "filter",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Filtro",
+    "createdAt": "2015-12-03T08:26:32.074Z",
+    "updatedAt": "2015-12-03T08:26:32.074Z"
+  },
+  {
+    "id": 150,
+    "name": "gridRendererStyle",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Estilos de la celda",
+    "createdAt": "2015-12-03T08:26:32.075Z",
+    "updatedAt": "2015-12-03T08:26:32.075Z"
+  },
+  {
+    "id": 151,
+    "name": "Add",
+    "locale": "es",
+    "catalog": "Fields",
+    "subCatalog": "Titles",
+    "value": "Datos del nuevo campo:",
+    "createdAt": "2015-12-03T08:26:32.075Z",
+    "updatedAt": "2015-12-03T08:26:32.075Z"
+  },
+  {
+    "id": 152,
+    "name": "align",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Alineación",
+    "createdAt": "2015-12-03T08:26:32.076Z",
+    "updatedAt": "2015-12-03T08:26:32.076Z"
+  },
+  {
+    "id": 153,
+    "name": "weight",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Peso de la fuente",
+    "createdAt": "2015-12-03T08:26:32.076Z",
+    "updatedAt": "2015-12-03T08:26:32.076Z"
+  },
+  {
+    "id": 154,
+    "name": "style",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Estilo de la fuente",
+    "createdAt": "2015-12-03T08:26:32.077Z",
+    "updatedAt": "2015-12-03T08:26:32.077Z"
+  },
+  {
+    "id": 158,
+    "name": "minimum",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Mínimo",
+    "createdAt": "2015-12-03T08:26:32.077Z",
+    "updatedAt": "2015-12-03T08:26:32.077Z"
+  },
+  {
+    "id": 159,
+    "name": "maximum",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Máximo",
+    "createdAt": "2015-12-03T08:26:32.077Z",
+    "updatedAt": "2015-12-03T08:26:32.077Z"
+  },
+  {
+    "id": 160,
+    "name": "singleStep",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Paso",
+    "createdAt": "2015-12-03T08:26:32.078Z",
+    "updatedAt": "2015-12-03T08:26:32.078Z"
+  },
+  {
+    "id": 161,
+    "name": "gridColumnWidth",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Ancho de la columna",
+    "createdAt": "2015-12-03T08:26:32.078Z",
+    "updatedAt": "2015-12-03T08:26:32.078Z"
+  },
+  {
+    "id": 162,
+    "name": "right",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "Derecha",
+    "createdAt": "2015-12-03T08:26:32.079Z",
+    "updatedAt": "2015-12-03T08:26:32.079Z"
+  },
+  {
+    "id": 163,
+    "name": "italic",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "cursivas",
+    "createdAt": "2015-12-03T08:26:32.079Z",
+    "updatedAt": "2015-12-03T08:26:32.079Z"
+  },
+  {
+    "id": 164,
+    "name": "oblique",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Labels",
+    "value": "oblicuo",
+    "createdAt": "2015-12-03T08:26:32.079Z",
+    "updatedAt": "2015-12-03T08:26:32.079Z"
+  },
+  {
+    "id": 165,
+    "name": "strDateFormat",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Formato de fecha",
+    "createdAt": "2015-12-03T08:26:32.080Z",
+    "updatedAt": "2015-12-03T08:26:32.080Z"
+  },
+  {
+    "id": 166,
+    "name": "NONE",
+    "locale": "es",
+    "catalog": "Forms",
+    "subCatalog": "Access",
+    "value": "Ninguno",
+    "createdAt": "2015-12-03T08:26:32.080Z",
+    "updatedAt": "2015-12-03T08:26:32.080Z"
+  },
+  {
+    "id": 167,
+    "name": "HIDDEN",
+    "locale": "es",
+    "catalog": "Forms",
+    "subCatalog": "Access",
+    "value": "Oculto",
+    "createdAt": "2015-12-03T08:26:32.081Z",
+    "updatedAt": "2015-12-03T08:26:32.081Z"
+  },
+  {
+    "id": 168,
+    "name": "READ",
+    "locale": "es",
+    "catalog": "Forms",
+    "subCatalog": "Access",
+    "value": "Lectura",
+    "createdAt": "2015-12-03T08:26:32.081Z",
+    "updatedAt": "2015-12-03T08:26:32.081Z"
+  },
+  {
+    "id": 169,
+    "name": "WRITE",
+    "locale": "es",
+    "catalog": "Forms",
+    "subCatalog": "Access",
+    "value": "Escritura",
+    "createdAt": "2015-12-03T08:26:32.081Z",
+    "updatedAt": "2015-12-03T08:26:32.081Z"
+  },
+  {
+    "id": 170,
+    "name": "module",
+    "locale": "es",
+    "catalog": "Modules",
+    "subCatalog": "Labels",
+    "value": "Module",
+    "createdAt": "2015-12-03T08:26:32.082Z",
+    "updatedAt": "2015-12-03T08:26:32.082Z"
+  },
+  {
+    "id": 171,
+    "name": "component",
+    "locale": "es",
+    "catalog": "Modules",
+    "subCatalog": "Labels",
+    "value": "Componente",
+    "createdAt": "2015-12-03T08:26:32.082Z",
+    "updatedAt": "2015-12-03T08:26:32.082Z"
+  },
+  {
+    "id": 172,
+    "name": "set",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Guardar",
+    "createdAt": "2015-12-03T08:26:32.083Z",
+    "updatedAt": "2015-12-03T08:26:32.083Z"
+  },
+  {
+    "id": 173,
+    "name": "Add",
+    "locale": "es",
+    "catalog": "Actions",
+    "subCatalog": "Titles",
+    "value": "Datos de la nuevo acción:",
+    "createdAt": "2015-12-03T08:26:32.084Z",
+    "updatedAt": "2015-12-03T08:26:32.084Z"
+  },
+  {
+    "id": 174,
+    "name": "Edit",
+    "locale": "es",
+    "catalog": "Actions",
+    "subCatalog": "Titles",
+    "value": "Datos de la acción:",
+    "createdAt": "2015-12-03T08:26:32.085Z",
+    "updatedAt": "2015-12-03T08:26:32.085Z"
+  },
+  {
+    "id": 176,
+    "name": "north",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "norte",
+    "createdAt": "2015-12-03T08:26:32.085Z",
+    "updatedAt": "2015-12-03T08:26:32.085Z"
+  },
+  {
+    "id": 177,
+    "name": "east",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "este",
+    "createdAt": "2015-12-03T08:26:32.086Z",
+    "updatedAt": "2015-12-03T08:26:32.086Z"
+  },
+  {
+    "id": 178,
+    "name": "south",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "sur",
+    "createdAt": "2015-12-03T08:26:32.086Z",
+    "updatedAt": "2015-12-03T08:26:32.086Z"
+  },
+  {
+    "id": 179,
+    "name": "west",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "oeste",
+    "createdAt": "2015-12-03T08:26:32.087Z",
+    "updatedAt": "2015-12-03T08:26:32.087Z"
+  },
+  {
+    "id": 180,
+    "name": "center",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "central",
+    "createdAt": "2015-12-03T08:26:32.087Z",
+    "updatedAt": "2015-12-03T08:26:32.087Z"
+  },
+  {
+    "id": 181,
+    "name": "edge",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Zona",
+    "createdAt": "2015-12-03T08:26:32.088Z",
+    "updatedAt": "2015-12-03T08:26:32.088Z"
+  },
+  {
+    "id": 182,
+    "name": "filterIn",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Filtro de entrada",
+    "createdAt": "2015-12-03T08:26:32.088Z",
+    "updatedAt": "2015-12-03T08:26:32.088Z"
+  },
+  {
+    "id": 183,
+    "name": "FAILED-UPDATE",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Messages",
+    "value": "La actualización del registro falló.",
+    "createdAt": "2015-12-03T08:26:32.089Z",
+    "updatedAt": "2015-12-03T08:26:32.089Z"
+  },
+  {
+    "id": 200,
+    "name": "inherit",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Colors",
+    "value": "Heradado",
+    "createdAt": "2015-12-03T08:26:32.089Z",
+    "updatedAt": "2015-12-03T08:26:32.089Z"
+  },
+  {
+    "id": 201,
+    "name": "aqua",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Colors",
+    "value": "aguamarina",
+    "createdAt": "2015-12-03T08:26:32.089Z",
+    "updatedAt": "2015-12-03T08:26:32.089Z"
+  },
+  {
+    "id": 202,
+    "name": "black",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Colors",
+    "value": "Negro",
+    "createdAt": "2015-12-03T08:26:32.090Z",
+    "updatedAt": "2015-12-03T08:26:32.090Z"
+  },
+  {
+    "id": 203,
+    "name": "blue",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Colors",
+    "value": "Azul",
+    "createdAt": "2015-12-03T08:26:32.090Z",
+    "updatedAt": "2015-12-03T08:26:32.090Z"
+  },
+  {
+    "id": 204,
+    "name": "fuchsia",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Colors",
+    "value": "Fucsia",
+    "createdAt": "2015-12-03T08:26:32.090Z",
+    "updatedAt": "2015-12-03T08:26:32.090Z"
+  },
+  {
+    "id": 205,
+    "name": "gray",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Colors",
+    "value": "Gris",
+    "createdAt": "2015-12-03T08:26:32.091Z",
+    "updatedAt": "2015-12-03T08:26:32.091Z"
+  },
+  {
+    "id": 206,
+    "name": "green",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Colors",
+    "value": "Verde",
+    "createdAt": "2015-12-03T08:26:32.091Z",
+    "updatedAt": "2015-12-03T08:26:32.091Z"
+  },
+  {
+    "id": 207,
+    "name": "lime",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Colors",
+    "value": "Verde lima",
+    "createdAt": "2015-12-03T08:26:32.092Z",
+    "updatedAt": "2015-12-03T08:26:32.092Z"
+  },
+  {
+    "id": 208,
+    "name": "maroon",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Colors",
+    "value": "Marrón",
+    "createdAt": "2015-12-03T08:26:32.092Z",
+    "updatedAt": "2015-12-03T08:26:32.092Z"
+  },
+  {
+    "id": 209,
+    "name": "navy",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Colors",
+    "value": "Azul marino",
+    "createdAt": "2015-12-03T08:26:32.092Z",
+    "updatedAt": "2015-12-03T08:26:32.092Z"
+  },
+  {
+    "id": 210,
+    "name": "olive",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Colors",
+    "value": "Olivo",
+    "createdAt": "2015-12-03T08:26:32.093Z",
+    "updatedAt": "2015-12-03T08:26:32.093Z"
+  },
+  {
+    "id": 211,
+    "name": "purple",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Colors",
+    "value": "Púrpura",
+    "createdAt": "2015-12-03T08:26:32.093Z",
+    "updatedAt": "2015-12-03T08:26:32.093Z"
+  },
+  {
+    "id": 212,
+    "name": "red",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Colors",
+    "value": "Rojo",
+    "createdAt": "2015-12-03T08:26:32.094Z",
+    "updatedAt": "2015-12-03T08:26:32.094Z"
+  },
+  {
+    "id": 213,
+    "name": "silver",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Colors",
+    "value": "Plata",
+    "createdAt": "2015-12-03T08:26:32.094Z",
+    "updatedAt": "2015-12-03T08:26:32.094Z"
+  },
+  {
+    "id": 214,
+    "name": "teal",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Colors",
+    "value": "Verde azulado",
+    "createdAt": "2015-12-03T08:26:32.094Z",
+    "updatedAt": "2015-12-03T08:26:32.094Z"
+  },
+  {
+    "id": 215,
+    "name": "white",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Colors",
+    "value": "Blanco",
+    "createdAt": "2015-12-03T08:26:32.095Z",
+    "updatedAt": "2015-12-03T08:26:32.095Z"
+  },
+  {
+    "id": 216,
+    "name": "yellow",
+    "locale": "es",
+    "catalog": "Styles",
+    "subCatalog": "Colors",
+    "value": "Amarillo",
+    "createdAt": "2015-12-03T08:26:32.095Z",
+    "updatedAt": "2015-12-03T08:26:32.095Z"
+  },
+  {
+    "id": 217,
+    "name": "FAILED LOAD",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Messages",
+    "value": "La lectura falló.",
+    "createdAt": "2015-12-03T08:26:32.095Z",
+    "updatedAt": "2015-12-03T08:26:32.095Z"
+  },
+  {
+    "id": 218,
+    "name": "access",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Acceso",
+    "createdAt": "2015-12-03T08:26:32.096Z",
+    "updatedAt": "2015-12-03T08:26:32.096Z"
+  },
+  {
+    "id": 219,
+    "name": "name",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Nombre",
+    "createdAt": "2015-12-03T08:26:32.097Z",
+    "updatedAt": "2015-12-03T08:26:32.097Z"
+  },
+  {
+    "id": 221,
+    "name": "module",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Módulo",
+    "createdAt": "2015-12-03T08:26:32.097Z",
+    "updatedAt": "2015-12-03T08:26:32.097Z"
+  },
+  {
+    "id": 225,
+    "name": "passport",
+    "locale": "es",
+    "catalog": "Users",
+    "subCatalog": "Labels",
+    "value": "Pasaporte",
+    "createdAt": "2015-12-03T08:26:32.098Z",
+    "updatedAt": "2015-12-03T08:26:32.098Z"
+  },
+  {
+    "id": 226,
+    "name": "active",
+    "locale": "es",
+    "catalog": "Users",
+    "subCatalog": "Labels",
+    "value": "Activo",
+    "createdAt": "2015-12-03T08:26:32.099Z",
+    "updatedAt": "2015-12-03T08:26:32.099Z"
+  },
+  {
+    "id": 227,
+    "name": "lastAccessDate",
+    "locale": "es",
+    "catalog": "Users",
+    "subCatalog": "Labels",
+    "value": "Último acceso",
+    "createdAt": "2015-12-03T08:26:32.099Z",
+    "updatedAt": "2015-12-03T08:26:32.099Z"
+  },
+  {
+    "id": 228,
+    "name": "lastAccessAddress",
+    "locale": "es",
+    "catalog": "Users",
+    "subCatalog": "Labels",
+    "value": "Último IP",
+    "createdAt": "2015-12-03T08:26:32.099Z",
+    "updatedAt": "2015-12-03T08:26:32.099Z"
+  },
+  {
+    "id": 230,
+    "name": "defaultRoleId",
+    "locale": "es",
+    "catalog": "Users",
+    "subCatalog": "Labels",
+    "value": "Rol predeterminado",
+    "createdAt": "2015-12-03T08:26:32.100Z",
+    "updatedAt": "2015-12-03T08:26:32.100Z"
+  },
+  {
+    "id": 231,
+    "name": "Add",
+    "locale": "es",
+    "catalog": "Users",
+    "subCatalog": "Titles",
+    "value": "Datos del nuevo usuario:",
+    "createdAt": "2015-12-03T08:26:32.100Z",
+    "updatedAt": "2015-12-03T08:26:32.100Z"
+  },
+  {
+    "id": 233,
+    "name": "Add",
+    "locale": "es",
+    "catalog": "Roles",
+    "subCatalog": "Titles",
+    "value": "Datos del nuevo rol:",
+    "createdAt": "2015-12-03T08:26:32.101Z",
+    "updatedAt": "2015-12-03T08:26:32.101Z"
+  },
+  {
+    "id": 234,
+    "name": "description",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Descripción",
+    "createdAt": "2015-12-03T08:26:32.101Z",
+    "updatedAt": "2015-12-03T08:26:32.101Z"
+  },
+  {
+    "id": 235,
+    "name": "role_id",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Rol",
+    "createdAt": "2015-12-03T08:26:32.102Z",
+    "updatedAt": "2015-12-03T08:26:32.102Z"
+  },
+  {
+    "id": 236,
+    "name": "role",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Rol",
+    "createdAt": "2015-12-03T08:26:32.102Z",
+    "updatedAt": "2015-12-03T08:26:32.102Z"
+  },
+  {
+    "id": 237,
+    "name": "primarySelectionComponentId",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Id del componente primario",
+    "createdAt": "2015-12-03T08:26:32.000Z",
+    "updatedAt": "2016-01-13T17:51:28.983Z"
+  },
+  {
+    "id": 238,
+    "name": "primaryFieldName",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Campo primario",
+    "createdAt": "2015-12-03T08:26:32.000Z",
+    "updatedAt": "2016-01-13T17:52:02.847Z"
+  },
+  {
+    "id": 239,
+    "name": "localFieldName",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Campo local",
+    "createdAt": "2015-12-03T08:26:32.104Z",
+    "updatedAt": "2015-12-03T08:26:32.104Z"
+  },
+  {
+    "id": 240,
+    "name": "Add",
+    "locale": "es",
+    "catalog": "Nomenclatures",
+    "subCatalog": "Titles",
+    "value": "Datos del nuevo nomenclador:",
+    "createdAt": "2015-12-03T08:26:32.104Z",
+    "updatedAt": "2015-12-03T08:26:32.104Z"
+  },
+  {
+    "id": 241,
+    "name": "label",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Etiqueta",
+    "createdAt": "2015-12-03T08:26:32.104Z",
+    "updatedAt": "2015-12-03T08:26:32.104Z"
+  },
+  {
+    "id": 246,
+    "name": "expirationDate",
+    "locale": "es",
+    "catalog": "Users",
+    "subCatalog": "Labels",
+    "value": "Expirasión",
+    "createdAt": "2015-12-03T08:26:32.105Z",
+    "updatedAt": "2015-12-03T08:26:32.105Z"
+  },
+  {
+    "id": 247,
+    "name": "pattern",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Patrón de validación",
+    "createdAt": "2015-12-08T15:46:59.000Z",
+    "updatedAt": "2015-12-09T21:19:53.877Z"
+  },
+  {
+    "id": 248,
+    "name": "filter",
+    "locale": "es",
+    "catalog": "Filter",
+    "subCatalog": "Labels",
+    "value": "Filtro",
+    "createdAt": "2015-12-10T19:59:31.000Z",
+    "updatedAt": "2015-12-10T20:00:33.169Z"
+  },
+  {
+    "id": 250,
+    "name": "Localization",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Localización",
+    "createdAt": "2015-12-10T02:05:46.000Z",
+    "updatedAt": "2015-12-10T06:18:23.846Z"
+  },
+  {
+    "id": 251,
+    "name": "mapType",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Tipo de mapa",
+    "createdAt": "2015-12-10T06:00:56.000Z",
+    "updatedAt": "2015-12-10T06:17:58.948Z"
+  },
+  {
+    "id": 252,
+    "name": "latitude",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "G.Latitud",
+    "createdAt": "2015-12-10T06:00:56.000Z",
+    "updatedAt": "2015-12-10T06:15:26.172Z"
+  },
+  {
+    "id": 253,
+    "name": "longitude",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "G.Longitud",
+    "createdAt": "2015-12-10T06:00:56.000Z",
+    "updatedAt": "2015-12-10T06:17:41.678Z"
+  },
+  {
+    "id": 254,
+    "name": "zoom",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Zoom",
+    "createdAt": "2015-12-10T06:00:56.000Z",
+    "updatedAt": "2015-12-10T06:12:29.333Z"
+  },
+  {
+    "id": 255,
+    "name": "latitude",
+    "locale": "es",
+    "catalog": "Places",
+    "subCatalog": "Labels",
+    "value": "G.Latitud",
+    "createdAt": "2015-12-10T06:10:47.000Z",
+    "updatedAt": "2015-12-10T06:15:02.287Z"
+  },
+  {
+    "id": 256,
+    "name": "longitude",
+    "locale": "es",
+    "catalog": "Places",
+    "subCatalog": "Labels",
+    "value": "G.Longitud",
+    "createdAt": "2015-12-10T06:10:47.000Z",
+    "updatedAt": "2015-12-10T06:12:49.643Z"
+  },
+  {
+    "id": 257,
+    "name": "zoom",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Zoom",
+    "createdAt": "2015-12-10T06:10:47.000Z",
+    "updatedAt": "2015-12-10T06:15:47.151Z"
+  },
+  {
+    "id": 258,
+    "name": "Add",
+    "locale": "es",
+    "catalog": "Patterns",
+    "subCatalog": "Titles",
+    "value": "Datos del nuevo patrón de validación:",
+    "createdAt": "2015-12-10T06:19:23.000Z",
+    "updatedAt": "2015-12-10T06:20:08.005Z"
+  },
+  {
+    "id": 259,
+    "name": "Add",
+    "locale": "es",
+    "catalog": "Places",
+    "subCatalog": "Titles",
+    "value": "Datos del nuevo lugar:",
+    "createdAt": "2015-12-10T06:22:50.376Z",
+    "updatedAt": "2015-12-10T06:22:50.376Z"
+  },
+  {
+    "id": 260,
+    "name": "Edit",
+    "locale": "es",
+    "catalog": "Places",
+    "subCatalog": "Titles",
+    "value": "Datos del lugar:",
+    "createdAt": "2015-12-10T06:40:33.609Z",
+    "updatedAt": "2015-12-10T06:40:33.609Z"
+  },
+  {
+    "id": 261,
+    "name": "Edit",
+    "locale": "es",
+    "catalog": "Patterns",
+    "subCatalog": "Titles",
+    "value": "Datos del patrón de validación:",
+    "createdAt": "2015-12-12T03:47:53.000Z",
+    "updatedAt": "2015-12-13T08:26:36.174Z"
+  },
+  {
+    "id": 262,
+    "name": "maximumFractionDigits",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Max. cifras decimales",
+    "createdAt": "2015-12-13T07:22:25.000Z",
+    "updatedAt": "2015-12-13T08:30:31.918Z"
+  },
+  {
+    "id": 263,
+    "name": "minimumFractionDigits",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Min. cifras decimales",
+    "createdAt": "2015-12-13T07:22:25.000Z",
+    "updatedAt": "2015-12-13T08:30:38.144Z"
+  },
+  {
+    "id": 264,
+    "name": "postfix",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Posfijo",
+    "createdAt": "2015-12-13T07:22:25.000Z",
+    "updatedAt": "2015-12-13T08:29:12.004Z"
+  },
+  {
+    "id": 265,
+    "name": "prefix",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Prefijo",
+    "createdAt": "2015-12-13T07:22:25.000Z",
+    "updatedAt": "2015-12-13T08:29:20.812Z"
+  },
+  {
+    "id": 266,
+    "name": "roleId",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Rol",
+    "createdAt": "2016-01-13T03:40:43.000Z",
+    "updatedAt": "2016-01-13T18:30:20.775Z"
+  },
+  {
+    "id": 268,
+    "name": "userId",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Usuario",
+    "createdAt": "2016-01-13T18:29:24.000Z",
+    "updatedAt": "2016-01-13T18:30:07.193Z"
+  },
+  {
+    "id": 269,
+    "name": "Edit",
+    "locale": "es",
+    "catalog": "Roles",
+    "subCatalog": "Titles",
+    "value": "Datos del rol",
+    "createdAt": "2016-01-13T22:59:32.000Z",
+    "updatedAt": "2016-01-18T04:06:04.565Z"
+  },
+  {
+    "id": 270,
+    "name": "options",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Opciones",
+    "createdAt": "2016-01-13T23:29:25.000Z",
+    "updatedAt": "2016-01-14T00:12:24.453Z"
+  },
+  {
+    "id": 271,
+    "name": "permission",
+    "locale": "es",
+    "catalog": "ACLs",
+    "subCatalog": "Labels",
+    "value": "Permiso",
+    "createdAt": "2016-01-18T04:06:33.000Z",
+    "updatedAt": "2016-01-18T04:06:54.984Z"
+  },
+  {
+    "id": 272,
+    "name": "Add",
+    "locale": "es",
+    "catalog": "ACLs",
+    "subCatalog": "Titles",
+    "value": "Datos del nuevo permiso",
+    "createdAt": "2016-01-18T04:08:37.000Z",
+    "updatedAt": "2016-01-18T04:10:28.414Z"
+  },
+  {
+    "id": 273,
+    "name": "NONE",
+    "locale": "es",
+    "catalog": "Safety",
+    "subCatalog": "Labels",
+    "value": "SI ACCESO",
+    "createdAt": "2016-01-18T04:08:37.000Z",
+    "updatedAt": "2016-01-18T04:11:18.873Z"
+  },
+  {
+    "id": 274,
+    "name": "READ",
+    "locale": "es",
+    "catalog": "Safety",
+    "subCatalog": "Labels",
+    "value": "LECTURA",
+    "createdAt": "2016-01-18T04:08:37.000Z",
+    "updatedAt": "2016-01-18T04:11:30.968Z"
+  },
+  {
+    "id": 275,
+    "name": "READ & EXECUTE",
+    "locale": "es",
+    "catalog": "Safety",
+    "subCatalog": "Labels",
+    "value": "LECTURA Y EJECUCIÓN",
+    "createdAt": "2016-01-18T04:08:37.000Z",
+    "updatedAt": "2016-01-18T04:11:48.637Z"
+  },
+  {
+    "id": 276,
+    "name": "READ & WRITE",
+    "locale": "es",
+    "catalog": "Safety",
+    "subCatalog": "Labels",
+    "value": "LECTURA Y ESCRITURA",
+    "createdAt": "2016-01-18T04:08:37.000Z",
+    "updatedAt": "2016-01-18T04:12:09.778Z"
+  },
+  {
+    "id": 277,
+    "name": "READ & DELETE",
+    "locale": "es",
+    "catalog": "Safety",
+    "subCatalog": "Labels",
+    "value": "LECTURA Y ELIMINACIÓN",
+    "createdAt": "2016-01-18T04:08:37.000Z",
+    "updatedAt": "2016-01-18T04:12:30.505Z"
+  },
+  {
+    "id": 278,
+    "name": "ALL",
+    "locale": "es",
+    "catalog": "Safety",
+    "subCatalog": "Labels",
+    "value": "ACCESO TOTAL",
+    "createdAt": "2016-01-18T04:08:37.000Z",
+    "updatedAt": "2016-01-18T04:12:48.925Z"
+  },
+  {
+    "id": 279,
+    "name": "baseParams",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Parámetros base",
+    "createdAt": "2016-01-18T04:39:19.000Z",
+    "updatedAt": "2016-01-18T07:15:57.796Z"
+  },
+  {
+    "id": 280,
+    "name": "Edit",
+    "locale": "es",
+    "catalog": "ACLs",
+    "subCatalog": "Titles",
+    "value": "Datos del permiso",
+    "createdAt": "2016-01-18T07:14:36.000Z",
+    "updatedAt": "2016-01-18T07:16:13.692Z"
+  },
+  {
+    "id": 284,
+    "name": "Edit",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Titles",
+    "value": "Modificar rol con acceso al servicio:",
+    "createdAt": "2016-01-24T09:08:13.000Z",
+    "updatedAt": "2016-01-26T04:46:49.106Z"
+  },
+  {
+    "id": 285,
+    "name": "action",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Labels",
+    "value": "Servicio",
+    "createdAt": "2016-01-24T09:12:27.000Z",
+    "updatedAt": "2016-01-26T04:42:50.675Z"
+  },
+  {
+    "id": 287,
+    "name": "Add",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Titles",
+    "value": "Nuevo rol con acceso al servicio:",
+    "createdAt": "2016-01-24T09:14:05.000Z",
+    "updatedAt": "2016-01-26T04:45:40.098Z"
+  },
+  {
+    "id": 295,
+    "name": "Username",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Usuario",
+    "createdAt": "2016-01-25T00:23:37.000Z",
+    "updatedAt": "2016-01-25T00:25:21.369Z"
+  },
+  {
+    "id": 297,
+    "name": "Password",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Contraseña",
+    "createdAt": "2016-01-25T00:23:49.000Z",
+    "updatedAt": "2016-01-25T00:25:00.807Z"
+  },
+  {
+    "id": 298,
+    "name": "FAILED-DELETE",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Messages",
+    "value": "La eliminación del registro falló.",
+    "createdAt": "2016-01-27T06:34:10.000Z",
+    "updatedAt": "2016-01-27T06:50:10.401Z"
+  },
+  {
+    "id": 299,
+    "name": "Unauthorized",
+    "locale": "es",
+    "catalog": "HTTP-status",
+    "subCatalog": "Messages",
+    "value": "Operación no autorizada.",
+    "createdAt": "2016-01-27T06:47:28.000Z",
+    "updatedAt": "2016-01-27T06:51:50.368Z"
+  },
+  {
+    "id": 300,
+    "name": "Network Authentication Required",
+    "locale": "es",
+    "catalog": "HTTP-status",
+    "subCatalog": "Messages",
+    "value": "Se requiere autenticación.",
+    "createdAt": "2016-01-28T06:56:26.000Z",
+    "updatedAt": "2016-01-28T06:57:33.446Z"
+  },
+  {
+    "id": 301,
+    "name": "ACTION_RECORDS_OF_CONTROLLER",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Labels",
+    "value": "%1 registros de %2.",
+    "createdAt": "2016-01-31T22:52:04.117Z",
+    "updatedAt": "2016-01-31T22:52:04.117Z"
+  },
+  {
+    "id": 302,
+    "name": "count",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Actions",
+    "value": "Contar",
+    "createdAt": "2016-01-31T22:52:04.083Z",
+    "updatedAt": "2016-01-31T22:52:04.083Z"
+  },
+  {
+    "id": 303,
+    "name": "index",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Actions",
+    "value": "Listar",
+    "createdAt": "2016-01-31T22:52:04.083Z",
+    "updatedAt": "2016-01-31T22:52:04.083Z"
+  },
+  {
+    "id": 304,
+    "name": "show",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Actions",
+    "value": "Obtener",
+    "createdAt": "2016-01-31T22:52:04.083Z",
+    "updatedAt": "2016-01-31T22:52:04.083Z"
+  },
+  {
+    "id": 305,
+    "name": "create",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Actions",
+    "value": "Crear",
+    "createdAt": "2016-01-31T22:52:04.083Z",
+    "updatedAt": "2016-01-31T22:52:04.083Z"
+  },
+  {
+    "id": 306,
+    "name": "update",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Actions",
+    "value": "Actualizar",
+    "createdAt": "2016-01-31T22:52:04.083Z",
+    "updatedAt": "2016-01-31T22:52:04.083Z"
+  },
+  {
+    "id": 307,
+    "name": "destroy",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Actions",
+    "value": "Eliminar",
+    "createdAt": "2016-01-31T22:52:04.083Z",
+    "updatedAt": "2016-01-31T22:52:04.083Z"
+  },
+  {
+    "id": 308,
+    "name": "/polymita/controllers/Actions",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Controllers",
+    "value": "acciones",
+    "createdAt": "2016-01-31T22:52:04.447Z",
+    "updatedAt": "2016-01-31T22:52:04.447Z"
+  },
+  {
+    "id": 309,
+    "name": "/polymita/controllers/Components",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Controllers",
+    "value": "componentes",
+    "createdAt": "2016-01-31T22:52:04.447Z",
+    "updatedAt": "2016-01-31T22:52:04.447Z"
+  },
+  {
+    "id": 310,
+    "name": "/polymita/controllers/Fields",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Controllers",
+    "value": "campos del grid o formulario",
+    "createdAt": "2016-01-31T22:52:04.447Z",
+    "updatedAt": "2016-01-31T22:52:04.447Z"
+  },
+  {
+    "id": 311,
+    "name": "/polymita/controllers/Filters",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Controllers",
+    "value": "filtros",
+    "createdAt": "2016-01-31T22:52:04.447Z",
+    "updatedAt": "2016-01-31T22:52:04.447Z"
+  },
+  {
+    "id": 312,
+    "name": "/polymita/controllers/I18ns",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Controllers",
+    "value": "internacionalizaciones",
+    "createdAt": "2016-01-31T22:52:04.447Z",
+    "updatedAt": "2016-01-31T22:52:04.447Z"
+  },
+  {
+    "id": 313,
+    "name": "/polymita/controllers/MembersOfRoles",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Controllers",
+    "value": "integrantes de un rol",
+    "createdAt": "2016-01-31T22:52:04.447Z",
+    "updatedAt": "2016-01-31T22:52:04.447Z"
+  },
+  {
+    "id": 314,
+    "name": "/polymita/controllers/Modules",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Controllers",
+    "value": "módulos",
+    "createdAt": "2016-01-31T22:52:04.447Z",
+    "updatedAt": "2016-01-31T22:52:04.447Z"
+  },
+  {
+    "id": 315,
+    "name": "/polymita/controllers/NomenclatureItems",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Controllers",
+    "value": "elementos de un nomenclador",
+    "createdAt": "2016-01-31T22:52:04.447Z",
+    "updatedAt": "2016-01-31T22:52:04.447Z"
+  },
+  {
+    "id": 316,
+    "name": "/polymita/controllers/Nomenclatures",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Controllers",
+    "value": "nomencladores",
+    "createdAt": "2016-01-31T22:52:04.447Z",
+    "updatedAt": "2016-01-31T22:52:04.447Z"
+  },
+  {
+    "id": 317,
+    "name": "/polymita/controllers/Patterns",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Controllers",
+    "value": "patrones de entrada",
+    "createdAt": "2016-01-31T22:52:04.447Z",
+    "updatedAt": "2016-01-31T22:52:04.447Z"
+  },
+  {
+    "id": 318,
+    "name": "/polymita/controllers/ResourceACLs",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Controllers",
+    "value": "permisos sobre un recurso",
+    "createdAt": "2016-01-31T22:52:04.447Z",
+    "updatedAt": "2016-01-31T22:52:04.447Z"
+  },
+  {
+    "id": 319,
+    "name": "/polymita/controllers/Roles",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Controllers",
+    "value": "roles",
+    "createdAt": "2016-01-31T22:52:04.447Z",
+    "updatedAt": "2016-01-31T22:52:04.447Z"
+  },
+  {
+    "id": 320,
+    "name": "/polymita/controllers/ServiceACLs",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Controllers",
+    "value": "permisos de un servicio",
+    "createdAt": "2016-01-31T22:52:04.447Z",
+    "updatedAt": "2016-01-31T22:52:04.447Z"
+  },
+  {
+    "id": 321,
+    "name": "/polymita/controllers/Services",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Controllers",
+    "value": "servicios",
+    "createdAt": "2016-01-31T22:52:04.447Z",
+    "updatedAt": "2016-01-31T22:52:04.447Z"
+  },
+  {
+    "id": 322,
+    "name": "/polymita/controllers/Users",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Controllers",
+    "value": "usuarios",
+    "createdAt": "2016-01-31T22:52:04.447Z",
+    "updatedAt": "2016-01-31T22:52:04.447Z"
+  },
+  {
+    "id": 323,
+    "name": "label",
+    "locale": "es",
+    "catalog": "Provinces",
+    "subCatalog": "Labels",
+    "value": "Provincia",
+    "createdAt": "2016-02-01T03:26:16.414Z",
+    "updatedAt": "2016-02-01T03:26:16.414Z"
+  },
+  {
+    "id": 324,
+    "name": "value",
+    "locale": "es",
+    "catalog": "Provinces",
+    "subCatalog": "Labels",
+    "value": "Identificador",
+    "createdAt": "2016-02-01T03:26:16.414Z",
+    "updatedAt": "2016-02-01T03:26:16.414Z"
+  },
+  {
+    "id": 325,
+    "name": "label",
+    "locale": "es",
+    "catalog": "Municipalities",
+    "subCatalog": "Labels",
+    "value": "Municipio",
+    "createdAt": "2016-02-01T03:26:16.414Z",
+    "updatedAt": "2016-02-01T03:26:16.414Z"
+  },
+  {
+    "id": 326,
+    "name": "value",
+    "locale": "es",
+    "catalog": "Municipalities",
+    "subCatalog": "Labels",
+    "value": "Identificador",
+    "createdAt": "2016-02-01T03:26:16.414Z",
+    "updatedAt": "2016-02-01T03:26:16.414Z"
+  },
+  {
+    "id": 327,
+    "name": "Edit",
+    "locale": "es",
+    "catalog": "Nomenclatures",
+    "subCatalog": "Titles",
+    "value": "Datos del nomenclador",
+    "createdAt": "2016-02-01T03:39:46.000Z",
+    "updatedAt": "2016-02-01T03:44:20.113Z"
+  },
+  {
+    "id": 328,
+    "name": "parentId",
+    "locale": "es",
+    "catalog": "Nomenclatures",
+    "subCatalog": "Labels",
+    "value": "Hijo de",
+    "createdAt": "2016-02-01T03:43:51.000Z",
+    "updatedAt": "2016-02-01T03:44:44.518Z"
+  },
+  {
+    "id": 329,
+    "name": "/polymita/controllers/Places",
+    "locale": "es",
+    "catalog": "Services",
+    "subCatalog": "Controllers",
+    "value": "lugares",
+    "createdAt": "2016-02-02T14:03:27.000Z",
+    "updatedAt": "2016-02-02T14:06:11.883Z"
+  },
+  {
+    "id": 330,
+    "name": "search",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Buscar",
+    "createdAt": "2016-02-03T01:27:09.000Z",
+    "updatedAt": "2016-02-05T01:13:43.923Z"
+  },
+  {
+    "id": 331,
+    "name": "Search",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Titles",
+    "value": "Datos a buscar:",
+    "createdAt": "2016-02-03T01:27:34.000Z",
+    "updatedAt": "2016-02-03T01:33:34.200Z"
+  },
+  {
+    "id": 332,
+    "name": "includeInSearch",
+    "locale": "es",
+    "catalog": "Fields",
+    "subCatalog": "Labels",
+    "value": "Incluir en las búsquedas",
+    "createdAt": "2016-02-03T01:45:09.000Z",
+    "updatedAt": "2016-02-03T01:47:06.243Z"
+  },
+  {
+    "id": 333,
+    "name": "Add",
+    "locale": "es",
+    "catalog": "Filter",
+    "subCatalog": "Titles",
+    "value": "Datos del nuevo filtro:",
+    "createdAt": "2016-02-05T05:21:48.000Z",
+    "updatedAt": "2016-02-05T06:19:19.403Z"
+  },
+  {
+    "id": 334,
+    "name": "Add",
+    "locale": "es",
+    "catalog": "Provinces",
+    "subCatalog": "Titles",
+    "value": "Datos de la nueva provincia:",
+    "createdAt": "2016-02-05T05:24:02.000Z",
+    "updatedAt": "2016-02-05T06:19:02.828Z"
+  },
+  {
+    "id": 335,
+    "name": "Edit",
+    "locale": "es",
+    "catalog": "Filter",
+    "subCatalog": "Titles",
+    "value": "Datos del nuevo filtro:",
+    "createdAt": "2016-02-05T06:22:24.000Z",
+    "updatedAt": "2016-02-05T06:22:44.926Z"
+  },
+  {
+    "id": 336,
+    "name": "Default",
+    "locale": "es",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Predeterminado",
+    "createdAt": "2016-02-10T03:10:21.000Z",
+    "updatedAt": "2016-02-10T03:10:52.991Z"
+  },
+  {
+    "id": 337,
+    "name": "nomenclatureId",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Nomenclador",
+    "createdAt": "2016-02-24T05:49:52.000Z",
+    "updatedAt": "2016-02-24T05:50:46.647Z"
+  },
+  {
+    "id": 338,
+    "name": "parentNomenclatureComponentId",
+    "locale": "es",
+    "catalog": "Properties",
+    "subCatalog": "Labels",
+    "value": "Id del campo nomencador padre",
+    "createdAt": "2016-02-24T05:51:36.000Z",
+    "updatedAt": "2016-02-24T05:53:49.280Z"
+  },
+  {
+    "id": 339,
+    "name": "filter",
+    "locale": "es",
+    "catalog": "Filters",
+    "subCatalog": "Labels",
+    "value": "[Filters.Labels.filter]",
+    "createdAt": "2016-02-24T05:59:19.704Z",
+    "updatedAt": "2016-02-24T05:59:19.704Z"
+  }
+]

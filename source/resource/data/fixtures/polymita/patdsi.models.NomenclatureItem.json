@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "label": "PE1",
+    "value": "PV1",
+    "parentId": null,
+    "nomenclatureId": 1
+  },
+  {
+    "id": 2,
+    "label": "PE2",
+    "value": "PV2",
+    "parentId": null,
+    "nomenclatureId": 1
+  },
+  {
+    "id": 3,
+    "label": "ME1",
+    "value": "MV1",
+    "parentId": 1,
+    "nomenclatureId": 2
+  },
+  {
+    "id": 4,
+    "label": "ME2",
+    "value": "MV2",
+    "parentId": 2,
+    "nomenclatureId": 2
+  },
+  {
+    "id": 5,
+    "label": "XXX",
+    "value": "XXX",
+    "parentId": 3,
+    "nomenclatureId": 2
+  }
+]

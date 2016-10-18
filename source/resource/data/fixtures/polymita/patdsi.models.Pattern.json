@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "LOWERCASE_WORD",
+    "pattern": "^[a-z]{2,}$",
+    "description": "Palabra en minúscula con al menos 2 letras.",
+    "createdAt": "2015-12-11T21:59:32.938Z",
+    "updatedAt": "2015-12-12T03:48:39.201Z"
+  },
+  {
+    "id": 2,
+    "name": "UPPERCASE_WORD",
+    "pattern": "^[A-Z]{2,}$",
+    "description": "Palabra en mayúscula con al menos 2 letras.",
+    "createdAt": "2015-12-11T22:00:06.676Z",
+    "updatedAt": "2015-12-12T03:48:59.604Z"
+  },
+  {
+    "id": 3,
+    "name": "NAME",
+    "pattern": "^[A-Z][a-z]+( [A-Z][a-z]+)+$",
+    "description": "2 o más palabras con iniciales en mayúscula.",
+    "createdAt": "2015-12-11T22:00:37.132Z",
+    "updatedAt": "2015-12-12T03:52:31.363Z"
+  },
+  {
+    "id": 4,
+    "name": "UPPERCASE_NAME",
+    "pattern": "^[A-Z]{2,}( [A-Z]{2,})+$",
+    "description": "2 o más palabras en mayúscula.",
+    "createdAt": "2015-12-11T22:01:03.341Z",
+    "updatedAt": "2015-12-12T03:52:36.120Z"
+  },
+  {
+    "id": 5,
+    "name": "LOWERCASE_NAME",
+    "pattern": "^[a-z]{2,}(\\s[a-z]{2,})+$",
+    "description": "2 o más palabras en minúscula.",
+    "createdAt": "2015-12-11T22:01:28.458Z",
+    "updatedAt": "2015-12-12T03:52:41.736Z"
+  },
+  {
+    "id": 6,
+    "name": "USERNAME",
+    "pattern": "^[a-z]+\\d*(\\.[a-z]+\\d*)?$",
+    "description": "1 o 2 cadenas de letras de la a-z que pueden terminar en dígitos y separadas por un punto.",
+    "createdAt": "2015-12-11T22:01:53.615Z",
+    "updatedAt": "2015-12-12T03:52:47.178Z"
+  }
+]

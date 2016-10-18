@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "ADMINISTRADOR",
+    "description": "Administradores del sistema.",
+    "createdAt": "2015-12-07T06:15:38.978Z",
+    "updatedAt": "2015-12-07T06:45:28.748Z"
+  },
+  {
+    "id": 2,
+    "name": "DESARROLLADOR",
+    "description": "Desarrolladores del sistema.",
+    "createdAt": "2015-12-07T06:15:38.979Z",
+    "updatedAt": "2015-12-07T06:45:19.023Z"
+  },
+  {
+    "id": 3,
+    "name": "USUARIOS",
+    "description": "Usuarios comunes del sistema.",
+    "createdAt": "2016-01-24T09:12:24.408Z",
+    "updatedAt": "2016-01-24T09:12:24.408Z"
+  }
+]

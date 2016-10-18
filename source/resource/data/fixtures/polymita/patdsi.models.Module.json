@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "development",
+    "title": "Desarrollo",
+    "place": 500,
+    "verticalLayout": false,
+    "disabled": false,
+    "parentId": null,
+    "createdAt": "2015-12-03T08:26:31.703Z",
+    "updatedAt": "2015-12-03T08:26:31.703Z"
+  },
+  {
+    "id": 2,
+    "name": "i18n",
+    "title": "Internacionalización",
+    "place": 501,
+    "verticalLayout": false,
+    "disabled": false,
+    "parentId": 1,
+    "createdAt": "2015-12-03T08:26:31.707Z",
+    "updatedAt": "2015-12-03T08:26:31.707Z"
+  },
+  {
+    "id": 3,
+    "name": "modules",
+    "title": "Módulos",
+    "place": 502,
+    "verticalLayout": false,
+    "disabled": false,
+    "parentId": 1,
+    "createdAt": "2015-12-03T08:26:31.708Z",
+    "updatedAt": "2015-12-03T08:26:31.708Z"
+  },
+  {
+    "id": 4,
+    "name": "components",
+    "title": "Componentes",
+    "place": 503,
+    "verticalLayout": true,
+    "disabled": true,
+    "parentId": 3,
+    "createdAt": "2015-12-03T08:26:31.709Z",
+    "updatedAt": "2015-12-03T08:26:31.709Z"
+  },
+  {
+    "id": 5,
+    "name": "fields",
+    "title": "Campos",
+    "place": 503,
+    "verticalLayout": true,
+    "disabled": true,
+    "parentId": 3,
+    "createdAt": "2015-12-03T08:26:31.709Z",
+    "updatedAt": "2015-12-03T08:26:31.709Z"
+  },
+  {
+    "id": 6,
+    "name": "actions",
+    "title": "Acciones",
+    "place": 503,
+    "verticalLayout": false,
+    "disabled": true,
+    "parentId": 3,
+    "createdAt": "2015-12-03T08:26:31.710Z",
+    "updatedAt": "2015-12-03T08:26:31.710Z"
+  },
+  {
+    "id": 27,
+    "name": "home",
+    "title": "Inicio",
+    "place": 0,
+    "verticalLayout": false,
+    "disabled": false,
+    "parentId": null,
+    "createdAt": "2015-12-03T08:26:31.710Z",
+    "updatedAt": "2015-12-03T08:26:31.710Z"
+  },
+  {
+    "id": 28,
+    "name": "administration",
+    "title": "Administración",
+    "place": 100,
+    "verticalLayout": false,
+    "disabled": false,
+    "parentId": null,
+    "createdAt": "2015-12-03T08:26:31.711Z",
+    "updatedAt": "2015-12-03T08:26:31.711Z"
+  },
+  {
+    "id": 29,
+    "name": "roles",
+    "title": "Roles",
+    "place": 1,
+    "verticalLayout": false,
+    "disabled": false,
+    "parentId": 28,
+    "createdAt": "2015-12-03T08:26:31.000Z",
+    "updatedAt": "2016-02-19T00:38:41.568Z"
+  },
+  {
+    "id": 30,
+    "name": "users",
+    "title": "Usuarios",
+    "place": 2,
+    "verticalLayout": false,
+    "disabled": false,
+    "parentId": 28,
+    "createdAt": "2015-12-03T08:26:31.712Z",
+    "updatedAt": "2015-12-03T08:26:31.712Z"
+  },
+  {
+    "id": 31,
+    "name": "acl",
+    "title": "Control de accesos",
+    "place": 3,
+    "verticalLayout": false,
+    "disabled": false,
+    "parentId": 28,
+    "createdAt": "2015-12-03T08:26:31.713Z",
+    "updatedAt": "2015-12-03T08:26:31.713Z"
+  },
+  {
+    "id": 32,
+    "name": "nomenclatures",
+    "title": "Nomencladores",
+    "place": 4,
+    "verticalLayout": false,
+    "disabled": false,
+    "parentId": 28,
+    "createdAt": "2015-12-03T08:26:31.000Z",
+    "updatedAt": "2016-01-24T08:58:51.734Z"
+  },
+  {
+    "id": 33,
+    "name": "acl-modules",
+    "title": "ACL/Módules",
+    "place": 301,
+    "verticalLayout": false,
+    "disabled": false,
+    "parentId": 31,
+    "createdAt": "2015-12-03T08:26:31.000Z",
+    "updatedAt": "2016-01-24T08:50:22.978Z"
+  },
+  {
+    "id": 34,
+    "name": "acl-nomenclature",
+    "title": "ACL/Nomencladores",
+    "place": 302,
+    "verticalLayout": false,
+    "disabled": false,
+    "parentId": 31,
+    "createdAt": "2015-12-03T08:26:31.000Z",
+    "updatedAt": "2016-01-24T08:50:31.771Z"
+  },
+  {
+    "id": 35,
+    "name": "patterns",
+    "title": "Patrones",
+    "place": 9999,
+    "verticalLayout": true,
+    "disabled": false,
+    "parentId": 1,
+    "createdAt": "2015-12-08T15:58:11.043Z",
+    "updatedAt": "2015-12-08T15:58:11.043Z"
+  },
+  {
+    "id": 36,
+    "name": "places",
+    "title": "Lugares",
+    "place": 2,
+    "verticalLayout": false,
+    "disabled": false,
+    "parentId": null,
+    "createdAt": "2015-12-10T05:58:53.174Z",
+    "updatedAt": "2015-12-10T05:58:53.174Z"
+  },
+  {
+    "id": 37,
+    "name": "filters",
+    "title": "Filtros",
+    "place": 9999,
+    "verticalLayout": true,
+    "disabled": false,
+    "parentId": 1,
+    "createdAt": "2015-12-10T16:33:53.995Z",
+    "updatedAt": "2015-12-10T16:33:53.995Z"
+  },
+  {
+    "id": 38,
+    "name": "acl-services",
+    "title": "ACL/Servicios",
+    "place": 303,
+    "verticalLayout": false,
+    "disabled": false,
+    "parentId": 31,
+    "createdAt": "2016-01-24T08:47:30.000Z",
+    "updatedAt": "2016-01-24T08:50:43.011Z"
+  },
+  {
+    "id": 39,
+    "name": "provinces",
+    "title": "Provincias",
+    "place": 1,
+    "verticalLayout": false,
+    "disabled": false,
+    "parentId": 32,
+    "createdAt": "2016-02-01T03:06:35.560Z",
+    "updatedAt": "2016-02-01T03:06:35.560Z"
+  },
+  {
+    "id": 40,
+    "name": "test",
+    "title": "Test",
+    "place": 9999,
+    "verticalLayout": false,
+    "disabled": false,
+    "parentId": 6,
+    "createdAt": "2016-02-23T01:17:09.623Z",
+    "updatedAt": "2016-02-23T01:17:09.623Z"
+  }
+]

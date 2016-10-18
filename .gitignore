@@ -1,0 +1,6 @@
+/.idea/
+/bower_components/
+/cache/
+/node_modules/
+/source/script/
+/source/resource/data/app.db

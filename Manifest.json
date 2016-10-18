@@ -1,0 +1,28 @@
+{
+    "info": {
+        "name": "polymita-server",
+        "summary": "Server application of Polymita suite.",
+        "description": "This server application provides all services API for managing a Polymita application.",
+        "homepage": "https://github.com/yoandrypa/polymita-server",
+        "license": "LGPL-3.0",
+        "authors": [
+            {
+                "name": "Yoandry Pacheco Aguila",
+                "email": "yoandrypa@gmail.com"
+            }
+        ],
+        "version": "1.0.0",
+        "qooxdoo-versions": [
+            "5.0.1"
+        ]
+    },
+    "provides": {
+        "namespace": "polymita",
+        "encoding": "utf-8",
+        "class": "source/class",
+        "resource": "source/resource",
+        "translation": "source/translation",
+        "type": "application"
+    }
+}
+

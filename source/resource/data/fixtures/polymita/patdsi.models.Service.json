@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "action": "/polymita/controllers/Modules/count"
+  },
+  {
+    "id": 2,
+    "action": "/polymita/controllers/Modules/index"
+  },
+  {
+    "id": 3,
+    "action": "/polymita/controllers/Modules/show"
+  },
+  {
+    "id": 4,
+    "action": "/polymita/controllers/Modules/create"
+  },
+  {
+    "id": 5,
+    "action": "/polymita/controllers/Modules/update"
+  },
+  {
+    "id": 6,
+    "action": "/polymita/controllers/Modules/destroy"
+  },
+  {
+    "id": 7,
+    "action": "/polymita/controllers/Users/count"
+  },
+  {
+    "id": 8,
+    "action": "/polymita/controllers/Users/index"
+  },
+  {
+    "id": 9,
+    "action": "/polymita/controllers/Users/show"
+  },
+  {
+    "id": 10,
+    "action": "/polymita/controllers/Users/create"
+  },
+  {
+    "id": 11,
+    "action": "/polymita/controllers/Users/update"
+  },
+  {
+    "id": 12,
+    "action": "/polymita/controllers/Users/destroy"
+  },
+  {
+    "id": 13,
+    "action": "/polymita/controllers/Roles/count"
+  },
+  {
+    "id": 14,
+    "action": "/polymita/controllers/Roles/index"
+  },
+  {
+    "id": 15,
+    "action": "/polymita/controllers/Roles/show"
+  },
+  {
+    "id": 16,
+    "action": "/polymita/controllers/Roles/create"
+  },
+  {
+    "id": 17,
+    "action": "/polymita/controllers/Roles/update"
+  },
+  {
+    "id": 18,
+    "action": "/polymita/controllers/Roles/destroy"
+  },
+  {
+    "id": 21,
+    "action": "/polymita/controllers/ServiceACLs/count"
+  },
+  {
+    "id": 22,
+    "action": "/polymita/controllers/ServiceACLs/index"
+  },
+  {
+    "id": 23,
+    "action": "/polymita/controllers/ServiceACLs/show"
+  },
+  {
+    "id": 24,
+    "action": "/polymita/controllers/ServiceACLs/create"
+  },
+  {
+    "id": 25,
+    "action": "/polymita/controllers/ServiceACLs/update"
+  },
+  {
+    "id": 26,
+    "action": "/polymita/controllers/ServiceACLs/destroy"
+  },
+  {
+    "id": 27,
+    "action": "/polymita/controllers/Services/count"
+  },
+  {
+    "id": 28,
+    "action": "/polymita/controllers/Services/index"
+  },
+  {
+    "id": 29,
+    "action": "/polymita/controllers/Services/show"
+  },
+  {
+    "id": 30,
+    "action": "/polymita/controllers/Services/create"
+  },
+  {
+    "id": 31,
+    "action": "/polymita/controllers/Services/update"
+  },
+  {
+    "id": 32,
+    "action": "/polymita/controllers/Services/destroy"
+  },
+  {
+    "id": 33,
+    "action": "/polymita/controllers/Components/count"
+  },
+  {
+    "id": 34,
+    "action": "/polymita/controllers/Components/index"
+  },
+  {
+    "id": 35,
+    "action": "/polymita/controllers/Components/show"
+  },
+  {
+    "id": 36,
+    "action": "/polymita/controllers/Components/create"
+  },
+  {
+    "id": 37,
+    "action": "/polymita/controllers/Components/update"
+  },
+  {
+    "id": 38,
+    "action": "/polymita/controllers/Components/destroy"
+  },
+  {
+    "id": 39,
+    "action": "/polymita/controllers/Fields/count"
+  },
+  {
+    "id": 40,
+    "action": "/polymita/controllers/Fields/index"
+  },
+  {
+    "id": 41,
+    "action": "/polymita/controllers/Fields/show"
+  },
+  {
+    "id": 42,
+    "action": "/polymita/controllers/Fields/create"
+  },
+  {
+    "id": 43,
+    "action": "/polymita/controllers/Fields/update"
+  },
+  {
+    "id": 44,
+    "action": "/polymita/controllers/Fields/destroy"
+  },
+  {
+    "id": 45,
+    "action": "/polymita/controllers/Actions/count"
+  },
+  {
+    "id": 46,
+    "action": "/polymita/controllers/Actions/index"
+  },
+  {
+    "id": 47,
+    "action": "/polymita/controllers/Actions/show"
+  },
+  {
+    "id": 48,
+    "action": "/polymita/controllers/Actions/create"
+  },
+  {
+    "id": 49,
+    "action": "/polymita/controllers/Actions/update"
+  },
+  {
+    "id": 50,
+    "action": "/polymita/controllers/Actions/destroy"
+  },
+  {
+    "id": 51,
+    "action": "/polymita/controllers/Filters/count"
+  },
+  {
+    "id": 52,
+    "action": "/polymita/controllers/Filters/index"
+  },
+  {
+    "id": 53,
+    "action": "/polymita/controllers/Filters/show"
+  },
+  {
+    "id": 54,
+    "action": "/polymita/controllers/Filters/create"
+  },
+  {
+    "id": 55,
+    "action": "/polymita/controllers/Filters/update"
+  },
+  {
+    "id": 56,
+    "action": "/polymita/controllers/Filters/destroy"
+  },
+  {
+    "id": 57,
+    "action": "/polymita/controllers/Patterns/count"
+  },
+  {
+    "id": 58,
+    "action": "/polymita/controllers/Patterns/index"
+  },
+  {
+    "id": 59,
+    "action": "/polymita/controllers/Patterns/show"
+  },
+  {
+    "id": 60,
+    "action": "/polymita/controllers/Patterns/create"
+  },
+  {
+    "id": 61,
+    "action": "/polymita/controllers/Patterns/update"
+  },
+  {
+    "id": 62,
+    "action": "/polymita/controllers/Patterns/destroy"
+  },
+  {
+    "id": 63,
+    "action": "/polymita/controllers/I18ns/count"
+  },
+  {
+    "id": 64,
+    "action": "/polymita/controllers/I18ns/index"
+  },
+  {
+    "id": 65,
+    "action": "/polymita/controllers/I18ns/show"
+  },
+  {
+    "id": 66,
+    "action": "/polymita/controllers/I18ns/create"
+  },
+  {
+    "id": 67,
+    "action": "/polymita/controllers/I18ns/update"
+  },
+  {
+    "id": 68,
+    "action": "/polymita/controllers/I18ns/destroy"
+  },
+  {
+    "id": 69,
+    "action": "/polymita/controllers/Nomenclatures/count"
+  },
+  {
+    "id": 70,
+    "action": "/polymita/controllers/Nomenclatures/index"
+  },
+  {
+    "id": 71,
+    "action": "/polymita/controllers/Nomenclatures/show"
+  },
+  {
+    "id": 72,
+    "action": "/polymita/controllers/Nomenclatures/create"
+  },
+  {
+    "id": 73,
+    "action": "/polymita/controllers/Nomenclatures/update"
+  },
+  {
+    "id": 74,
+    "action": "/polymita/controllers/Nomenclatures/destroy"
+  },
+  {
+    "id": 75,
+    "action": "/polymita/controllers/NomenclatureItems/count"
+  },
+  {
+    "id": 76,
+    "action": "/polymita/controllers/NomenclatureItems/index"
+  },
+  {
+    "id": 77,
+    "action": "/polymita/controllers/NomenclatureItems/show"
+  },
+  {
+    "id": 78,
+    "action": "/polymita/controllers/NomenclatureItems/create"
+  },
+  {
+    "id": 79,
+    "action": "/polymita/controllers/NomenclatureItems/update"
+  },
+  {
+    "id": 80,
+    "action": "/polymita/controllers/NomenclatureItems/destroy"
+  },
+  {
+    "id": 81,
+    "action": "/polymita/controllers/Places/count"
+  },
+  {
+    "id": 82,
+    "action": "/polymita/controllers/Places/index"
+  },
+  {
+    "id": 83,
+    "action": "/polymita/controllers/Places/show"
+  },
+  {
+    "id": 84,
+    "action": "/polymita/controllers/Places/create"
+  },
+  {
+    "id": 85,
+    "action": "/polymita/controllers/Places/update"
+  },
+  {
+    "id": 86,
+    "action": "/polymita/controllers/Places/destroy"
+  },
+  {
+    "id": 87,
+    "action": "/polymita/controllers/MembersOfRoles/count"
+  },
+  {
+    "id": 88,
+    "action": "/polymita/controllers/MembersOfRoles/index"
+  },
+  {
+    "id": 89,
+    "action": "/polymita/controllers/MembersOfRoles/show"
+  },
+  {
+    "id": 90,
+    "action": "/polymita/controllers/MembersOfRoles/create"
+  },
+  {
+    "id": 91,
+    "action": "/polymita/controllers/MembersOfRoles/update"
+  },
+  {
+    "id": 92,
+    "action": "/polymita/controllers/MembersOfRoles/destroy"
+  },
+  {
+    "id": 93,
+    "action": "/polymita/controllers/ResourceACLs/count"
+  },
+  {
+    "id": 94,
+    "action": "/polymita/controllers/ResourceACLs/index"
+  },
+  {
+    "id": 95,
+    "action": "/polymita/controllers/ResourceACLs/show"
+  },
+  {
+    "id": 96,
+    "action": "/polymita/controllers/ResourceACLs/create"
+  },
+  {
+    "id": 97,
+    "action": "/polymita/controllers/ResourceACLs/update"
+  },
+  {
+    "id": 98,
+    "action": "/polymita/controllers/ResourceACLs/destroy"
+  }
+]

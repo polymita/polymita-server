@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "roleId": 1,
+    "userId": 1,
+    "createdAt": "2016-01-13T18:39:42.420Z",
+    "updatedAt": "2016-01-13T18:39:42.420Z"
+  },
+  {
+    "id": 4,
+    "roleId": 2,
+    "userId": 2,
+    "createdAt": "2016-01-13T23:01:09.387Z",
+    "updatedAt": "2016-01-13T23:01:09.387Z"
+  },
+  {
+    "id": 5,
+    "roleId": 2,
+    "userId": 1,
+    "createdAt": "2016-01-19T04:11:11.603Z",
+    "updatedAt": "2016-01-19T04:11:11.603Z"
+  },
+  {
+    "id": 6,
+    "roleId": 3,
+    "userId": 1,
+    "createdAt": "2016-01-24T09:13:12.482Z",
+    "updatedAt": "2016-01-24T09:13:12.482Z"
+  },
+  {
+    "id": 7,
+    "roleId": 3,
+    "userId": 2,
+    "createdAt": "2016-01-26T15:33:28.760Z",
+    "updatedAt": "2016-01-26T15:33:28.760Z"
+  }
+]

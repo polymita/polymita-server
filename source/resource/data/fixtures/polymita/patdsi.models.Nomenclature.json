@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "PROVINCIAS",
+    "parentId": null,
+    "description": "Provincias del país."
+  },
+  {
+    "id": 2,
+    "name": "MUNICIPIOS",
+    "parentId": null,
+    "description": "Municipios del país."
+  }
+]
