@@ -39,7 +39,7 @@
     "let": {
         "ROOT": ".",
         "APPLICATION": "polymita",
-        "QOOXDOO_PATH": "./bower_components/qooxdoo-5.0.1-sdk",
+        "QOOXDOO_PATH": "./node_modules/qooxdoo-sdk",
         "BUILD_PATH": "${ROOT}/../${APPLICATION}-build",
         "CACHE": "./cache/qx${QOOXDOO_VERSION}",
         "LOCALES": [

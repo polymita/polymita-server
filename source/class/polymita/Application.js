@@ -42,7 +42,7 @@ qx.Class.define("polymita.Application", {
                 var module = require('module'),
                     guiSourcePath = path.resolve(path.join(guaraiba.appRoot, '../../polymita-gui/source')),
                     polymitaGuiResourcePath = path.join(guiSourcePath, 'resource/polymita'),
-                    qxSourcePath = path.resolve(path.join(guaraiba.appRoot, '../bower_components/qooxdoo-5.0.1-sdk/framework/source/resource/qx'));
+                    qxSourcePath = path.resolve(path.join(guaraiba.appRoot, '../node_modules/qooxdoo-sdk/framework/source/resource/qx'));
 
                 qx.lang.Array.append(paths, [
                     { urlPattern: '/gui', resourcePath: guiSourcePath },
