@@ -11,7 +11,7 @@ qx.Class.define('polymita.Configuration', {
             // Set default dbSchema name.
             process.env.dbSchema = 'polymita';
 
-            var databasePath = path.join(guaraiba.appDataPath, 'app.db'),
+            var databasePath = guaraiba.path.join(guaraiba.appDataPath, 'app.db'),
 
                 knexSetting = {
                     client: 'sqlite3',
