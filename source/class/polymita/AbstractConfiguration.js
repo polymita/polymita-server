@@ -11,8 +11,8 @@ qx.Class.define('polymita.AbstractConfiguration', {
         this.base(arguments);
 
         // Set base path for polymita resources.
-        if (guaraiba.fs.existsSync(guaraiba.path.join(guaraiba.resourcePath, 'polymita'))) {
-            this.registerResourceUri('polymita', guaraiba.resourcePath)
+        if (guaraiba.fs.existsSync(guaraiba.path.join(guaraiba.appResourcePath, 'polymita'))) {
+            this.registerResourceUri('polymita', guaraiba.appResourcePath)
         } else {
             var module = require('module'),
                 polymitaPath = guaraiba.path.dirname(module._resolveFilename('polymita'));

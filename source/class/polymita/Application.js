@@ -23,7 +23,9 @@ qx.Class.define("polymita.Application", {
      * Constructor
      */
     construct: function () {
-        this.base(arguments, polymita.Configuration.getInstance(), polymita.Router.getInstance());
+        this.base(arguments);
+        this.setConfiguration(polymita.Configuration.getInstance());
+        this.setRouter(polymita.Router.getInstance());
     },
 
     members: {
