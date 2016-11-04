@@ -41,7 +41,6 @@
     "inflection": "^1.10.0",
     "jade": "^1.11.0",
     "jake": "^8.0.12",
-    "java": "^0.7.2",
     "js-beautify": "^1.6.3",
     "knex": "^0.11.5",
     "method-override": "^2.3.6",
@@ -58,7 +57,6 @@
     "request-ip": "^1.2.2",
     "serve-favicon": "^2.3.0",
     "serve-static": "^1.10.3",
-    "sqlite3": "^3.1.4",
     "strong-cluster-connect-store": "^1.0.3",
     "temporary": "0.0.8",
     "underscore": "^1.8.3",
@@ -69,6 +67,7 @@
   },
   "devDependencies": {
     "qooxdoo-sdk": "^5.0.1",
-    "guaraiba": "yoandrypa/guaraiba"
+    "guaraiba": "yoandrypa/guaraiba",
+    "sqlite3": "^3.1.4"
   }
 }
