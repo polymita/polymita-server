@@ -14,10 +14,9 @@ qx.Class.define('polymita.AbstractConfiguration', {
         if (guaraiba.fs.existsSync(guaraiba.path.join(guaraiba.appResourcePath, 'polymita'))) {
             this.registerResourceUri('polymita', guaraiba.appResourcePath)
         } else {
-            var module = require('module'),
-                polymitaPath = guaraiba.path.dirname(module._resolveFilename('polymita'));
-
-            this.registerResourceUri('polymita', guaraiba.path.join(polymitaPath, 'node_modules/polymita-server/source/resource'));
+            this.registerResourceUri('polymita', guaraiba.path.join(
+                guaraiba.appRoot, '..', 'node_modules', 'polymita-server', 'source', 'resource')
+            );
         }
 
         this.setSessionSecret('a3d68565c5bd86c8d13af3b98c23e6bb');
@@ -25,7 +24,7 @@ qx.Class.define('polymita.AbstractConfiguration', {
         this.setAllowCORS(false);
 
         // Include postgresql jdbc driver.
-        guaraiba.javaClasspath('guaraiba/java/postgresql-9.3-1102.jdbc4.jar');
+        guaraiba.javaClassPath('guaraiba/java/postgresql-9.3-1102.jdbc4.jar');
 
         // Configure profile map for local passport authentication.
         this.getPassport('local').setProfileMap({
