@@ -41,7 +41,7 @@
         "APPLICATION": "polymita",
         "QOOXDOO_PATH": "./node_modules/qooxdoo-sdk",
         "BUILD_PATH": "${ROOT}/../${APPLICATION}-build",
-        "CACHE": "./cache/qx${QOOXDOO_VERSION}",
+        "CACHE": "${ROOT}/cache/qx${QOOXDOO_VERSION}",
         "LOCALES": [
             "es"
         ]
@@ -72,7 +72,7 @@
                     "manifest": "${QOOXDOO_PATH}/framework/Manifest.json"
                 },
                 {
-                    "manifest": "${ROOT}/node_modules/guaraiba/Manifest.json"
+                    "manifest": "${ROOT}/node_modules/guaraiba-sdk/Manifest.json"
                 }
             ],
             "extend": [
