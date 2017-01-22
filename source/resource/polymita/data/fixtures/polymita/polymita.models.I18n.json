@@ -400,16 +400,6 @@
     "updatedAt": "2015-12-03T08:26:32.041Z"
   },
   {
-    "id": 47,
-    "name": "mask",
-    "locale": "es",
-    "catalog": "Properties",
-    "subCatalog": "Labels",
-    "value": "Mascara de acceso",
-    "createdAt": "2015-12-03T08:26:32.042Z",
-    "updatedAt": "2015-12-03T08:26:32.042Z"
-  },
-  {
     "id": 49,
     "name": "EMPTY",
     "locale": "es",
@@ -2698,16 +2688,6 @@
     "value": "Action",
     "createdAt": "2015-12-03T08:26:32.041Z",
     "updatedAt": "2015-12-03T08:26:32.041Z"
-  },
-  {
-    "id": 380,
-    "name": "mask",
-    "locale": "en",
-    "catalog": "Properties",
-    "subCatalog": "Labels",
-    "value": "Access mask",
-    "createdAt": "2015-12-03T08:26:32.042Z",
-    "updatedAt": "2015-12-03T08:26:32.042Z"
   },
   {
     "id": 382,
