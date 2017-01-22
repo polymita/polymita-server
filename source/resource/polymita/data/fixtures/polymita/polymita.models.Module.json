@@ -2,221 +2,221 @@
   {
     "id": 1,
     "name": "development",
-    "title": "Desarrollo",
+    "i18nCatalog": "Developments",
     "place": 500,
     "verticalLayout": false,
     "disabled": false,
     "parentId": null,
     "createdAt": "2015-12-03T08:26:31.703Z",
-    "updatedAt": "2015-12-03T08:26:31.703Z"
+    "updatedAt": "2017-01-21T21:04:54.372Z"
   },
   {
     "id": 2,
     "name": "i18n",
-    "title": "Internacionalización",
+    "i18nCatalog": "I18ns",
     "place": 501,
     "verticalLayout": false,
     "disabled": false,
     "parentId": 1,
     "createdAt": "2015-12-03T08:26:31.707Z",
-    "updatedAt": "2015-12-03T08:26:31.707Z"
+    "updatedAt": "2017-01-21T21:04:54.385Z"
   },
   {
     "id": 3,
     "name": "modules",
-    "title": "Módulos",
+    "i18nCatalog": "Modules",
     "place": 502,
     "verticalLayout": false,
     "disabled": false,
     "parentId": 1,
     "createdAt": "2015-12-03T08:26:31.708Z",
-    "updatedAt": "2015-12-03T08:26:31.708Z"
+    "updatedAt": "2017-01-21T21:04:54.390Z"
   },
   {
     "id": 4,
     "name": "components",
-    "title": "Componentes",
+    "i18nCatalog": "Components",
     "place": 503,
     "verticalLayout": true,
     "disabled": true,
     "parentId": 3,
     "createdAt": "2015-12-03T08:26:31.709Z",
-    "updatedAt": "2015-12-03T08:26:31.709Z"
+    "updatedAt": "2017-01-21T21:04:54.398Z"
   },
   {
     "id": 5,
     "name": "fields",
-    "title": "Campos",
+    "i18nCatalog": "Fields",
     "place": 503,
     "verticalLayout": true,
     "disabled": true,
     "parentId": 3,
     "createdAt": "2015-12-03T08:26:31.709Z",
-    "updatedAt": "2015-12-03T08:26:31.709Z"
+    "updatedAt": "2017-01-21T21:04:54.395Z"
   },
   {
     "id": 6,
     "name": "actions",
-    "title": "Acciones",
+    "i18nCatalog": "Actions",
     "place": 503,
     "verticalLayout": false,
     "disabled": true,
     "parentId": 3,
     "createdAt": "2015-12-03T08:26:31.710Z",
-    "updatedAt": "2015-12-03T08:26:31.710Z"
+    "updatedAt": "2017-01-21T21:04:54.379Z"
   },
   {
     "id": 27,
     "name": "home",
-    "title": "Inicio",
+    "i18nCatalog": "Home",
     "place": 0,
     "verticalLayout": false,
     "disabled": false,
     "parentId": null,
     "createdAt": "2015-12-03T08:26:31.710Z",
-    "updatedAt": "2015-12-03T08:26:31.710Z"
+    "updatedAt": "2017-01-22T00:28:13.121Z"
   },
   {
     "id": 28,
     "name": "administration",
-    "title": "Administración",
+    "i18nCatalog": "Administrations",
     "place": 100,
     "verticalLayout": false,
     "disabled": false,
     "parentId": null,
     "createdAt": "2015-12-03T08:26:31.711Z",
-    "updatedAt": "2015-12-03T08:26:31.711Z"
+    "updatedAt": "2017-01-21T21:04:54.386Z"
   },
   {
     "id": 29,
     "name": "roles",
-    "title": "Roles",
+    "i18nCatalog": "Roles",
     "place": 1,
     "verticalLayout": false,
     "disabled": false,
     "parentId": 28,
     "createdAt": "2015-12-03T08:26:31.000Z",
-    "updatedAt": "2016-02-19T00:38:41.568Z"
+    "updatedAt": "2017-01-21T21:04:54.388Z"
   },
   {
     "id": 30,
     "name": "users",
-    "title": "Usuarios",
+    "i18nCatalog": "Users",
     "place": 2,
     "verticalLayout": false,
     "disabled": false,
     "parentId": 28,
     "createdAt": "2015-12-03T08:26:31.712Z",
-    "updatedAt": "2015-12-03T08:26:31.712Z"
+    "updatedAt": "2017-01-21T21:04:54.400Z"
   },
   {
     "id": 31,
     "name": "acl",
-    "title": "Control de accesos",
+    "i18nCatalog": "ACLs",
     "place": 3,
     "verticalLayout": false,
     "disabled": false,
     "parentId": 28,
-    "createdAt": "2015-12-03T08:26:31.713Z",
-    "updatedAt": "2015-12-03T08:26:31.713Z"
+    "createdAt": "2015-12-03T08:26:31.000Z",
+    "updatedAt": "2017-01-21T22:25:29.719Z"
   },
   {
     "id": 32,
     "name": "nomenclatures",
-    "title": "Nomencladores",
+    "i18nCatalog": "Nomenclatures",
     "place": 4,
     "verticalLayout": false,
     "disabled": false,
     "parentId": 28,
     "createdAt": "2015-12-03T08:26:31.000Z",
-    "updatedAt": "2016-01-24T08:58:51.734Z"
+    "updatedAt": "2017-01-21T21:04:54.408Z"
   },
   {
     "id": 33,
     "name": "acl-modules",
-    "title": "ACL/Módules",
+    "i18nCatalog": "ACL/Modules",
     "place": 301,
     "verticalLayout": false,
     "disabled": false,
     "parentId": 31,
     "createdAt": "2015-12-03T08:26:31.000Z",
-    "updatedAt": "2016-01-24T08:50:22.978Z"
+    "updatedAt": "2017-01-21T21:10:57.231Z"
   },
   {
     "id": 34,
     "name": "acl-nomenclature",
-    "title": "ACL/Nomencladores",
+    "i18nCatalog": "ACL/Nomenclatures",
     "place": 302,
     "verticalLayout": false,
     "disabled": false,
     "parentId": 31,
     "createdAt": "2015-12-03T08:26:31.000Z",
-    "updatedAt": "2016-01-24T08:50:31.771Z"
+    "updatedAt": "2017-01-21T21:11:09.914Z"
   },
   {
     "id": 35,
     "name": "patterns",
-    "title": "Patrones",
+    "i18nCatalog": "Patterns",
     "place": 9999,
     "verticalLayout": true,
     "disabled": false,
     "parentId": 1,
     "createdAt": "2015-12-08T15:58:11.043Z",
-    "updatedAt": "2015-12-08T15:58:11.043Z"
+    "updatedAt": "2017-01-21T21:04:54.418Z"
   },
   {
     "id": 36,
     "name": "places",
-    "title": "Lugares",
+    "i18nCatalog": "Places",
     "place": 2,
     "verticalLayout": false,
     "disabled": false,
     "parentId": null,
     "createdAt": "2015-12-10T05:58:53.174Z",
-    "updatedAt": "2015-12-10T05:58:53.174Z"
+    "updatedAt": "2017-01-21T21:04:54.434Z"
   },
   {
     "id": 37,
     "name": "filters",
-    "title": "Filtros",
+    "i18nCatalog": "Filters",
     "place": 9999,
     "verticalLayout": true,
     "disabled": false,
     "parentId": 1,
     "createdAt": "2015-12-10T16:33:53.995Z",
-    "updatedAt": "2015-12-10T16:33:53.995Z"
+    "updatedAt": "2017-01-21T21:04:54.413Z"
   },
   {
     "id": 38,
     "name": "acl-services",
-    "title": "ACL/Servicios",
+    "i18nCatalog": "ACL/Services",
     "place": 303,
     "verticalLayout": false,
     "disabled": false,
     "parentId": 31,
     "createdAt": "2016-01-24T08:47:30.000Z",
-    "updatedAt": "2016-01-24T08:50:43.011Z"
+    "updatedAt": "2017-01-21T21:11:30.301Z"
   },
   {
     "id": 39,
     "name": "provinces",
-    "title": "Provincias",
+    "i18nCatalog": "Provinces",
     "place": 1,
     "verticalLayout": false,
     "disabled": false,
     "parentId": 32,
     "createdAt": "2016-02-01T03:06:35.560Z",
-    "updatedAt": "2016-02-01T03:06:35.560Z"
+    "updatedAt": "2017-01-21T21:04:54.415Z"
   },
   {
     "id": 40,
     "name": "test",
-    "title": "Test",
+    "i18nCatalog": "Tests",
     "place": 9999,
     "verticalLayout": false,
     "disabled": false,
     "parentId": 6,
     "createdAt": "2016-02-23T01:17:09.623Z",
-    "updatedAt": "2016-02-23T01:17:09.623Z"
+    "updatedAt": "2017-01-21T21:04:54.438Z"
   }
 ]

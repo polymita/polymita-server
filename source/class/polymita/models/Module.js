@@ -16,7 +16,7 @@ qx.Class.define("polymita.models.Module", {
             check: guaraiba.orm.DBSchema.String
         },
 
-        title: {
+        i18nCatalog: {
             check: guaraiba.orm.DBSchema.String
         },
 
