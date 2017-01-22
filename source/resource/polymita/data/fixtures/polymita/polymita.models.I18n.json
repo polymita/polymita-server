@@ -5098,5 +5098,45 @@
     "value": "Actions",
     "createdAt": "2017-01-21T22:25:23.000Z",
     "updatedAt": "2017-01-21T22:30:24.050Z"
+  },
+  {
+    "id": 648,
+    "name": "active",
+    "locale": "en",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Active",
+    "createdAt": "2017-01-22T04:48:27.844Z",
+    "updatedAt": "2017-01-22T07:31:50.535Z"
+  },
+  {
+    "id": 649,
+    "name": "i18n",
+    "locale": "en",
+    "catalog": "Properties",
+    "subCatalog": "Titles",
+    "value": "I18n data:",
+    "createdAt": "2017-01-22T07:33:39.461Z",
+    "updatedAt": "2017-01-22T07:35:15.609Z"
+  },
+  {
+    "id": 650,
+    "name": "Name or {{field}}",
+    "locale": "en",
+    "catalog": "I18ns",
+    "subCatalog": "Labels",
+    "value": "Literal name or {{field}}",
+    "createdAt": "2017-01-22T07:48:26.469Z",
+    "updatedAt": "2017-01-22T07:49:34.937Z"
+  },
+  {
+    "id": 651,
+    "name": "i18n",
+    "locale": "en",
+    "catalog": "ACL/Modules",
+    "subCatalog": "property",
+    "value": "I18n",
+    "createdAt": "2017-01-22T22:22:26.895Z",
+    "updatedAt": "2017-01-22T22:22:26.895Z"
   }
 ]

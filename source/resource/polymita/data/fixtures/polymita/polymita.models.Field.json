@@ -449,7 +449,7 @@
     "includeInSearch": true,
     "accessInAddForm": "N",
     "accessInEditForm": "N",
-    "properties": "{\"required\":false,\"minLength\":0,\"maxLength\":255,\"pattern\":\".*\",\"filterIn\":\".\",\"gridColumnWidth\":\"80\",\"gridRendererStyle\":{}}",
+    "properties": "{\"required\":false,\"minLength\":0,\"maxLength\":255,\"pattern\":\".*\",\"filterIn\":\".\",\"value\":null,\"gridColumnWidth\":\"80\",\"gridRendererStyle\":{},\"i18n\":{}}",
     "validatorClass": null,
     "place": 1,
     "componentId": 12
@@ -457,12 +457,12 @@
   {
     "id": 36,
     "name": "name",
-    "widgetClass": "polymita.form.field.util.I18nModuleName",
+    "widgetClass": "polymita.form.field.TextField",
     "showInGrid": true,
     "includeInSearch": false,
     "accessInAddForm": "N",
     "accessInEditForm": "N",
-    "properties": "{\"required\":false,\"gridColumnWidth\":\"\",\"gridRendererStyle\":{}}",
+    "properties": "{\"required\":false,\"minLength\":0,\"maxLength\":255,\"pattern\":\".*\",\"filterIn\":\".\",\"value\":null,\"gridColumnWidth\":\"\",\"gridRendererStyle\":{},\"i18n\":{\"active\":false}}",
     "validatorClass": null,
     "place": 3,
     "componentId": 12
@@ -644,7 +644,7 @@
     "includeInSearch": true,
     "accessInAddForm": "W",
     "accessInEditForm": "W",
-    "properties": "{\"required\":false,\"minLength\":0,\"maxLength\":255,\"pattern\":\"\\\\w+([ -]\\\\w+)*\",\"filterIn\":\"[\\\\w -]\",\"gridColumnWidth\":\"300\",\"gridRendererStyle\":{}}",
+    "properties": "{\"required\":false,\"minLength\":0,\"maxLength\":255,\"pattern\":\"\\\\w+([ -]\\\\w+)*\",\"filterIn\":\"[\\\\w -]\",\"value\":null,\"gridColumnWidth\":\"300\",\"gridRendererStyle\":{},\"i18n\":{}}",
     "validatorClass": null,
     "place": 2,
     "componentId": 8
@@ -748,7 +748,7 @@
     "includeInSearch": true,
     "accessInAddForm": "W",
     "accessInEditForm": "W",
-    "properties": "{\"required\":true,\"minLength\":2,\"maxLength\":100,\"pattern\":\"[a-záéíóúüñA-ZÁÉÍÓÚÜÑ0-9]+([ _-][a-záéíóúüñA-ZÁÉÍÓÚÜÑ0-9]+)*\",\"filterIn\":\".\",\"gridColumnWidth\":\"150\",\"gridRendererStyle\":{}}",
+    "properties": "{\"required\":true,\"minLength\":2,\"maxLength\":100,\"pattern\":\"[a-záéíóúüñA-ZÁÉÍÓÚÜÑ0-9]+([ _-][a-záéíóúüñA-ZÁÉÍÓÚÜÑ0-9]+)*\",\"filterIn\":\".\",\"value\":null,\"gridColumnWidth\":\"150\",\"gridRendererStyle\":{},\"i18n\":{}}",
     "validatorClass": null,
     "place": 2,
     "componentId": 10
@@ -1099,7 +1099,7 @@
     "includeInSearch": true,
     "accessInAddForm": "N",
     "accessInEditForm": "R",
-    "properties": "{\"required\":false,\"minimum\":-9007199254740991,\"maximum\":9007199254740991,\"singleStep\":1,\"gridColumnWidth\":\"80\",\"gridRendererStyle\":{}}",
+    "properties": "{\"required\":false,\"minimum\":-9007199254740991,\"maximum\":9007199254740991,\"value\":1,\"singleStep\":1,\"gridColumnWidth\":\"80\",\"gridRendererStyle\":{}}",
     "validatorClass": null,
     "place": 1,
     "componentId": 23
@@ -1216,7 +1216,7 @@
     "includeInSearch": true,
     "accessInAddForm": "W",
     "accessInEditForm": "W",
-    "properties": "{}",
+    "properties": "{\"required\":false,\"minLength\":0,\"maxLength\":255,\"pattern\":\".*\",\"filterIn\":\".\",\"value\":null,\"gridColumnWidth\":\"\",\"gridRendererStyle\":{},\"i18n\":{}}",
     "validatorClass": null,
     "place": 2,
     "componentId": 25
