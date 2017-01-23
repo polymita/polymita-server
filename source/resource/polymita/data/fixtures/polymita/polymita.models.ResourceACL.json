@@ -295,14 +295,5 @@
     "permission": 15,
     "createdAt": "2016-02-07T21:38:05.530Z",
     "updatedAt": "2016-02-07T21:38:05.530Z"
-  },
-  {
-    "id": 34,
-    "resourceTypeId": 1,
-    "resourceId": 40,
-    "roleId": 1,
-    "permission": 15,
-    "createdAt": "2016-02-23T01:17:09.662Z",
-    "updatedAt": "2016-02-23T01:17:09.662Z"
   }
 ]

@@ -207,16 +207,5 @@
     "parentId": 32,
     "createdAt": "2016-02-01T03:06:35.560Z",
     "updatedAt": "2017-01-21T21:04:54.415Z"
-  },
-  {
-    "id": 40,
-    "name": "test",
-    "i18nCatalog": "Tests",
-    "place": 9999,
-    "verticalLayout": false,
-    "disabled": false,
-    "parentId": 6,
-    "createdAt": "2016-02-23T01:17:09.623Z",
-    "updatedAt": "2017-01-21T21:04:54.438Z"
   }
 ]
