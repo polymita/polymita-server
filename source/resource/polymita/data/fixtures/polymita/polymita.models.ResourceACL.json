@@ -184,9 +184,9 @@
     "resourceTypeId": 1,
     "resourceId": 29,
     "roleId": 1,
-    "permission": 5,
+    "permission": 15,
     "createdAt": "2016-01-19T04:01:26.843Z",
-    "updatedAt": "2016-01-19T04:01:26.843Z"
+    "updatedAt": "2017-06-21T03:59:28.810Z"
   },
   {
     "id": 22,
@@ -202,9 +202,9 @@
     "resourceTypeId": 1,
     "resourceId": 30,
     "roleId": 1,
-    "permission": 3,
+    "permission": 15,
     "createdAt": "2016-01-19T04:01:56.787Z",
-    "updatedAt": "2016-01-19T04:01:56.787Z"
+    "updatedAt": "2017-06-21T03:59:18.012Z"
   },
   {
     "id": 24,
@@ -225,40 +225,31 @@
     "updatedAt": "2016-01-19T04:06:31.540Z"
   },
   {
-    "id": 26,
-    "resourceTypeId": 1,
-    "resourceId": 31,
-    "roleId": 1,
-    "permission": 3,
-    "createdAt": "2016-01-19T04:07:24.530Z",
-    "updatedAt": "2016-01-19T04:07:24.530Z"
-  },
-  {
     "id": 27,
     "resourceTypeId": 1,
     "resourceId": 33,
     "roleId": 1,
-    "permission": 3,
+    "permission": 0,
     "createdAt": "2016-01-19T04:07:56.089Z",
-    "updatedAt": "2016-01-19T04:07:56.089Z"
+    "updatedAt": "2017-06-21T03:59:50.238Z"
   },
   {
     "id": 28,
     "resourceTypeId": 1,
     "resourceId": 34,
     "roleId": 1,
-    "permission": 3,
+    "permission": 0,
     "createdAt": "2016-01-19T04:08:07.520Z",
-    "updatedAt": "2016-01-26T04:19:16.370Z"
+    "updatedAt": "2017-06-21T04:00:18.420Z"
   },
   {
     "id": 29,
     "resourceTypeId": 1,
     "resourceId": 38,
     "roleId": 1,
-    "permission": 15,
+    "permission": 0,
     "createdAt": "2016-01-24T08:47:30.569Z",
-    "updatedAt": "2016-01-24T08:47:30.569Z"
+    "updatedAt": "2017-06-21T04:00:29.262Z"
   },
   {
     "id": 30,
@@ -295,5 +286,68 @@
     "permission": 15,
     "createdAt": "2016-02-07T21:38:05.530Z",
     "updatedAt": "2016-02-07T21:38:05.530Z"
+  },
+  {
+    "id": 34,
+    "resourceTypeId": 1,
+    "resourceId": 38,
+    "roleId": 2,
+    "permission": 15,
+    "createdAt": "2017-06-21T04:01:05.240Z",
+    "updatedAt": "2017-06-21T04:01:05.240Z"
+  },
+  {
+    "id": 35,
+    "resourceTypeId": 1,
+    "resourceId": 3,
+    "roleId": 1,
+    "permission": 0,
+    "createdAt": "2017-06-21T04:01:46.580Z",
+    "updatedAt": "2017-06-21T04:01:46.580Z"
+  },
+  {
+    "id": 36,
+    "resourceTypeId": 1,
+    "resourceId": 6,
+    "roleId": 1,
+    "permission": 0,
+    "createdAt": "2017-06-21T04:01:52.108Z",
+    "updatedAt": "2017-06-21T04:01:52.108Z"
+  },
+  {
+    "id": 37,
+    "resourceTypeId": 1,
+    "resourceId": 4,
+    "roleId": 1,
+    "permission": 0,
+    "createdAt": "2017-06-21T04:01:58.254Z",
+    "updatedAt": "2017-06-21T04:01:58.254Z"
+  },
+  {
+    "id": 38,
+    "resourceTypeId": 1,
+    "resourceId": 5,
+    "roleId": 1,
+    "permission": 0,
+    "createdAt": "2017-06-21T04:02:16.376Z",
+    "updatedAt": "2017-06-21T04:02:16.376Z"
+  },
+  {
+    "id": 39,
+    "resourceTypeId": 1,
+    "resourceId": 37,
+    "roleId": 1,
+    "permission": 0,
+    "createdAt": "2017-06-21T04:02:22.209Z",
+    "updatedAt": "2017-06-21T04:02:22.209Z"
+  },
+  {
+    "id": 40,
+    "resourceTypeId": 1,
+    "resourceId": 35,
+    "roleId": 1,
+    "permission": 0,
+    "createdAt": "2017-06-21T04:02:28.460Z",
+    "updatedAt": "2017-06-21T04:02:28.460Z"
   }
 ]

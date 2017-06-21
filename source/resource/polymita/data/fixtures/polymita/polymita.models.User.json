@@ -11,7 +11,7 @@
     "expirationDate": "2050-12-17T00:00:00.000Z",
     "defaultRoleId": 1,
     "createdAt": "2015-12-03T08:26:32.257Z",
-    "updatedAt": "2017-01-23T05:56:58.572Z"
+    "updatedAt": "2017-06-21T03:37:12.891Z"
   },
   {
     "id": 2,
@@ -25,6 +25,6 @@
     "expirationDate": "2050-01-15T00:00:00.000Z",
     "defaultRoleId": 2,
     "createdAt": "2016-01-13T22:48:27.260Z",
-    "updatedAt": "2016-01-19T04:02:48.962Z"
+    "updatedAt": "2017-06-21T03:54:01.798Z"
   }
 ]

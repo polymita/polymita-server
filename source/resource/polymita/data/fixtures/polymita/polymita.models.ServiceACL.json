@@ -670,5 +670,47 @@
     "roleId": 1,
     "createdAt": "2016-02-07T21:27:18.752Z",
     "updatedAt": "2016-02-07T21:27:18.752Z"
+  },
+  {
+    "id": 101,
+    "serviceId": 90,
+    "roleId": 2,
+    "createdAt": "2017-06-21T04:04:25.357Z",
+    "updatedAt": "2017-06-21T04:04:25.357Z"
+  },
+  {
+    "id": 105,
+    "serviceId": 96,
+    "roleId": 2,
+    "createdAt": "2017-06-21T04:05:40.304Z",
+    "updatedAt": "2017-06-21T04:05:40.304Z"
+  },
+  {
+    "id": 106,
+    "serviceId": 97,
+    "roleId": 2,
+    "createdAt": "2017-06-21T04:07:24.132Z",
+    "updatedAt": "2017-06-21T04:07:24.132Z"
+  },
+  {
+    "id": 107,
+    "serviceId": 98,
+    "roleId": 2,
+    "createdAt": "2017-06-21T04:08:24.302Z",
+    "updatedAt": "2017-06-21T04:08:24.302Z"
+  },
+  {
+    "id": 108,
+    "serviceId": 92,
+    "roleId": 2,
+    "createdAt": "2017-06-21T04:08:50.505Z",
+    "updatedAt": "2017-06-21T04:08:50.505Z"
+  },
+  {
+    "id": 109,
+    "serviceId": 91,
+    "roleId": 2,
+    "createdAt": "2017-06-21T04:09:41.343Z",
+    "updatedAt": "2017-06-21T04:09:41.343Z"
   }
 ]
