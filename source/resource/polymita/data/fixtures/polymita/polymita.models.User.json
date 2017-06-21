@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Super Usuario del Sistema",
+    "name": "System administrator",
     "username": "root",
     "password": "VTJGc2RHVmtYMS9UWFJwMlBqSk4zaTNZNWwyUjBub0pWNEppZDAwdWxpQT0=",
     "passport": "local",
@@ -15,7 +15,7 @@
   },
   {
     "id": 2,
-    "name": "Desarrollador del Sistema",
+    "name": "System development",
     "username": "dev",
     "password": "VTJGc2RHVmtYMStSY1FkdW9NWCtza2pvY241VXNUbytHZ2JkK0JLMGxDST0=",
     "passport": "local",
