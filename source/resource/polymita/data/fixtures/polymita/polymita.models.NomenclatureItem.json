@@ -26,12 +26,5 @@
     "value": "MV2",
     "parentId": 2,
     "nomenclatureId": 2
-  },
-  {
-    "id": 5,
-    "label": "XXX",
-    "value": "XXX",
-    "parentId": 3,
-    "nomenclatureId": 2
   }
 ]

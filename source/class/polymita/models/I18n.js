@@ -1,3 +1,6 @@
+/**
+ * @require(polymita.models.I18nModel)
+ */
 qx.Class.define("polymita.models.I18n", {
     extend: guaraiba.orm.Record,
     include: [guaraiba.orm.MTimestampRecord],
