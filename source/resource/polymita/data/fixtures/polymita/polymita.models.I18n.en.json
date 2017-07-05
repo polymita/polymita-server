@@ -2130,54 +2130,14 @@
     "updatedAt": "2017-01-21T23:41:46.243Z"
   },
   {
-    "id": 445,
-    "name": "label",
-    "locale": "en",
-    "catalog": "Provinces",
-    "subCatalog": "Labels",
-    "value": "Provincia",
-    "createdAt": "2016-02-01T03:26:16.414Z",
-    "updatedAt": "2016-02-01T03:26:16.414Z"
-  },
-  {
-    "id": 446,
-    "name": "value",
-    "locale": "en",
-    "catalog": "Provinces",
-    "subCatalog": "Labels",
-    "value": "Identificador",
-    "createdAt": "2016-02-01T03:26:16.414Z",
-    "updatedAt": "2016-02-01T03:26:16.414Z"
-  },
-  {
-    "id": 447,
-    "name": "label",
-    "locale": "en",
-    "catalog": "Municipalities",
-    "subCatalog": "Labels",
-    "value": "Municipio",
-    "createdAt": "2016-02-01T03:26:16.414Z",
-    "updatedAt": "2016-02-01T03:26:16.414Z"
-  },
-  {
-    "id": 448,
-    "name": "value",
-    "locale": "en",
-    "catalog": "Municipalities",
-    "subCatalog": "Labels",
-    "value": "Identificador",
-    "createdAt": "2016-02-01T03:26:16.414Z",
-    "updatedAt": "2016-02-01T03:26:16.414Z"
-  },
-  {
     "id": 449,
     "name": "parentId",
     "locale": "en",
     "catalog": "Nomenclatures",
     "subCatalog": "Labels",
-    "value": "Hijo de",
+    "value": "Parent",
     "createdAt": "2016-02-01T03:43:51.000Z",
-    "updatedAt": "2016-02-01T03:44:44.518Z"
+    "updatedAt": "2017-07-05T05:06:40.321Z"
   },
   {
     "id": 450,
@@ -2273,21 +2233,11 @@
     "id": 459,
     "name": "SINGLE-ITEM-REFERENCE",
     "locale": "en",
-    "catalog": "Provinces",
+    "catalog": "N.Test",
     "subCatalog": "Labels",
-    "value": "Province",
+    "value": "N.Test",
     "createdAt": "2017-01-21T19:31:26.000Z",
     "updatedAt": "2017-01-21T19:35:21.026Z"
-  },
-  {
-    "id": 460,
-    "name": "SINGLE-ITEM-REFERENCE",
-    "locale": "en",
-    "catalog": "Municipalities",
-    "subCatalog": "Labels",
-    "value": "Municipality",
-    "createdAt": "2017-01-21T19:31:31.000Z",
-    "updatedAt": "2017-01-21T19:35:04.178Z"
   },
   {
     "id": 461,
@@ -2463,9 +2413,9 @@
     "id": 498,
     "name": "MODULE-REFERENCE",
     "locale": "en",
-    "catalog": "Provinces",
+    "catalog": "N.Test",
     "subCatalog": "Labels",
-    "value": "Provinces",
+    "value": "N.Test",
     "createdAt": "2017-01-21T21:26:17.000Z",
     "updatedAt": "2017-01-21T21:58:49.668Z"
   },

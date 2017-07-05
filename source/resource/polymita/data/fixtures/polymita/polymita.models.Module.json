@@ -199,8 +199,8 @@
   },
   {
     "id": 39,
-    "name": "provinces",
-    "i18nCatalog": "Provinces",
+    "name": "N.Test",
+    "i18nCatalog": "N.Test",
     "place": 1,
     "verticalLayout": false,
     "disabled": false,
