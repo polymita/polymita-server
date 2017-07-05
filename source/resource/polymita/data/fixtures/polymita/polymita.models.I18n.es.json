@@ -821,13 +821,13 @@
   },
   {
     "id": 83,
-    "name": "APPLICATION TITLE",
+    "name": "APPLICATION-TITLE",
     "locale": "es",
     "catalog": "Common",
     "subCatalog": "Labels",
-    "value": "APPLICATION TITLE",
+    "value": "Título de la Aplicación",
     "createdAt": "2015-12-03T08:26:32.059Z",
-    "updatedAt": "2015-12-03T08:26:32.059Z"
+    "updatedAt": "2017-07-05T04:07:48.035Z"
   },
   {
     "id": 84,

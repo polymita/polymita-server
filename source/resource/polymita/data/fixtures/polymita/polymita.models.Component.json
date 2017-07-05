@@ -257,22 +257,22 @@
     "widgetClass": "polymita.management.DataGridRestService",
     "place": 1,
     "disabled": false,
-    "properties": "{\"i18n\":\"Provinces\",\"restServiceURL\":\"/NomenclatureItems\",\"formWidth\":500,\"formHeight\":155,\"edge\":\"center\",\"region\":50,\"rowHeight\":28,\"blockSize\":40,\"maxCachedBlockCount\":5,\"primarySelectionComponentId\":null,\"primaryFieldName\":\"id\",\"localFieldName\":null,\"baseParams\":\"{\\\"nomenclatureId\\\":1}\"}",
+    "properties": "{\"i18n\":\"N.Test\",\"restServiceURL\":\"/NomenclatureItems\",\"formWidth\":500,\"formHeight\":155,\"edge\":\"center\",\"region\":50,\"rowHeight\":28,\"blockSize\":40,\"maxCachedBlockCount\":5,\"primarySelectionComponentId\":null,\"primaryFieldName\":\"id\",\"localFieldName\":null,\"baseParams\":\"{\\\"nomenclatureId\\\":1}\"}",
     "moduleId": 39,
     "parentId": null,
     "createdAt": "2016-02-01T03:09:51.959Z",
-    "updatedAt": "2016-02-04T15:46:13.592Z"
+    "updatedAt": "2017-07-04T21:19:56.413Z"
   },
   {
     "id": 26,
     "widgetClass": "polymita.management.DataGridRestService",
     "place": 2,
     "disabled": false,
-    "properties": "{\"i18n\":\"Municipalities\",\"restServiceURL\":\"/NomenclatureItems\",\"formWidth\":500,\"formHeight\":155,\"edge\":\"east\",\"region\":50,\"rowHeight\":28,\"blockSize\":40,\"maxCachedBlockCount\":5,\"primarySelectionComponentId\":25,\"primaryFieldName\":\"id\",\"localFieldName\":\"parentId\",\"baseParams\":\"{\\\"nomenclatureId\\\":2,\\\"parentId\\\":-1}\"}",
+    "properties": "{\"i18n\":\"N.Test\",\"restServiceURL\":\"/NomenclatureItems\",\"formWidth\":500,\"formHeight\":155,\"edge\":\"east\",\"region\":50,\"rowHeight\":28,\"blockSize\":40,\"maxCachedBlockCount\":5,\"primarySelectionComponentId\":25,\"primaryFieldName\":\"id\",\"localFieldName\":\"parentId\",\"baseParams\":\"{\\\"nomenclatureId\\\":2,\\\"parentId\\\":-1}\"}",
     "moduleId": 39,
     "parentId": null,
     "createdAt": "2016-02-01T03:09:51.000Z",
-    "updatedAt": "2016-02-04T15:46:35.560Z"
+    "updatedAt": "2017-07-04T21:20:22.432Z"
   },
   {
     "id": 27,
