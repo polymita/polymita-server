@@ -56,31 +56,3 @@ task('default', { async: true }, function () {
     console.log('----------------------------------------------------------------------\n');
     complete();
 });
-
-task('xxx', { async: true }, function () {
-    var dbSchema = qx.core.BaseInit.getApplication().getDBSchema('polymita'),
-        i18nModel = dbSchema.getModel('polymita.models.I18n'),
-        inflection = require('inflection');
-
-    dbSchema.transaction(function (schema, commit, rollback) {
-        i18nModel.all().where({ locale: 'en', sub_catalog: 'Colors' }).then(function (err, records) {
-            var i=records.length;
-            records.forEach(function (r) {
-                var t = inflection.capitalize((r.getName()));
-                console.log(r.getValue(), t);
-                r.setValue(t);
-                r.save(function (err) {
-                    if (err) throw err;
-                    console.log(i--);;
-                    if (i == 1) {
-                        console.log('fin');
-                        commit()
-                    }
-                })
-                console.log(t);
-            })
-        })
-    }, complete, complete);
-
-
-});
