@@ -15,7 +15,7 @@
     "locale": "en",
     "catalog": "Common",
     "subCatalog": "Messages",
-    "value": "¿Desea realmente eliminar el registro seleccionado?",
+    "value": "Do you really want to delete the selected item?",
     "createdAt": "2015-12-03T08:26:32.022Z",
     "updatedAt": "2015-12-03T08:26:32.022Z"
   },
@@ -85,7 +85,7 @@
     "locale": "en",
     "catalog": "Modules",
     "subCatalog": "Messages",
-    "value": "¿Desea realmente eliminar el módulo seleccionado?",
+    "value": "Do you really want to delete the selected module?",
     "createdAt": "2015-12-03T08:26:32.027Z",
     "updatedAt": "2015-12-03T08:26:32.027Z"
   },
@@ -385,7 +385,7 @@
     "locale": "en",
     "catalog": "Modules",
     "subCatalog": "Messages",
-    "value": "El módulo '%1' no contiene submódulos ni componentes asociados.",
+    "value": "The '%1' module does not contain submodules or associated components.",
     "createdAt": "2015-12-03T08:26:32.042Z",
     "updatedAt": "2015-12-03T08:26:32.042Z"
   },
@@ -825,7 +825,7 @@
     "locale": "en",
     "catalog": "Common",
     "subCatalog": "Messages",
-    "value": "Item is successful deleted.",
+    "value": "Item is successfully deleted.",
     "createdAt": "2015-12-03T08:26:32.061Z",
     "updatedAt": "2015-12-03T08:26:32.061Z"
   },
@@ -835,7 +835,7 @@
     "locale": "en",
     "catalog": "Common",
     "subCatalog": "Messages",
-    "value": "La adición del nuevo registro falló.",
+    "value": "The new item addition is failed.",
     "createdAt": "2015-12-03T08:26:32.061Z",
     "updatedAt": "2015-12-03T08:26:32.061Z"
   },
@@ -845,7 +845,7 @@
     "locale": "en",
     "catalog": "Common",
     "subCatalog": "Messages",
-    "value": "Item is successful append.",
+    "value": "Item is successfully added.",
     "createdAt": "2015-12-03T08:26:32.061Z",
     "updatedAt": "2017-07-04T22:45:37.317Z"
   },
@@ -855,7 +855,7 @@
     "locale": "en",
     "catalog": "Modules",
     "subCatalog": "Labels",
-    "value": "Vertical vayout",
+    "value": "Vertical layout",
     "createdAt": "2015-12-03T08:26:32.062Z",
     "updatedAt": "2017-07-04T22:25:16.370Z"
   },
@@ -875,7 +875,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Ancho del formulario",
+    "value": "Form width",
     "createdAt": "2015-12-03T08:26:32.065Z",
     "updatedAt": "2015-12-03T08:26:32.065Z"
   },
@@ -885,7 +885,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Altura del formulario",
+    "value": "Form height",
     "createdAt": "2015-12-03T08:26:32.066Z",
     "updatedAt": "2015-12-03T08:26:32.066Z"
   },
@@ -895,7 +895,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Altura de las filas",
+    "value": "Row height",
     "createdAt": "2015-12-03T08:26:32.066Z",
     "updatedAt": "2015-12-03T08:26:32.066Z"
   },
@@ -905,7 +905,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Filas por bloques",
+    "value": "Block size",
     "createdAt": "2015-12-03T08:26:32.066Z",
     "updatedAt": "2015-12-03T08:26:32.066Z"
   },
@@ -915,7 +915,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Bloques en cache",
+    "value": "Cached block",
     "createdAt": "2015-12-03T08:26:32.067Z",
     "updatedAt": "2015-12-03T08:26:32.067Z"
   },
@@ -925,7 +925,7 @@
     "locale": "en",
     "catalog": "Components",
     "subCatalog": "Labels",
-    "value": "Campos",
+    "value": "Fields",
     "createdAt": "2015-12-03T08:26:32.067Z",
     "updatedAt": "2015-12-03T08:26:32.067Z"
   },
@@ -935,7 +935,7 @@
     "locale": "en",
     "catalog": "Components",
     "subCatalog": "Labels",
-    "value": "Acciones",
+    "value": "Actions",
     "createdAt": "2015-12-03T08:26:32.068Z",
     "updatedAt": "2015-12-03T08:26:32.068Z"
   },
@@ -945,7 +945,7 @@
     "locale": "en",
     "catalog": "Fields",
     "subCatalog": "Labels",
-    "value": "Validador",
+    "value": "Validator",
     "createdAt": "2015-12-03T08:26:32.068Z",
     "updatedAt": "2015-12-03T08:26:32.068Z"
   },
@@ -955,7 +955,7 @@
     "locale": "en",
     "catalog": "Fields",
     "subCatalog": "Labels",
-    "value": "Mostrar en el grid",
+    "value": "Show in grid",
     "createdAt": "2015-12-03T08:26:32.071Z",
     "updatedAt": "2015-12-03T08:26:32.071Z"
   },
@@ -985,7 +985,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Filtro",
+    "value": "Filter",
     "createdAt": "2015-12-03T08:26:32.074Z",
     "updatedAt": "2015-12-03T08:26:32.074Z"
   },
@@ -995,7 +995,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Estilos de la celda",
+    "value": "Cell style",
     "createdAt": "2015-12-03T08:26:32.075Z",
     "updatedAt": "2015-12-03T08:26:32.075Z"
   },
@@ -1035,7 +1035,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Mínimo",
+    "value": "Minimum",
     "createdAt": "2015-12-03T08:26:32.077Z",
     "updatedAt": "2015-12-03T08:26:32.077Z"
   },
@@ -1045,7 +1045,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Máximo",
+    "value": "Maximum",
     "createdAt": "2015-12-03T08:26:32.077Z",
     "updatedAt": "2015-12-03T08:26:32.077Z"
   },
@@ -1065,7 +1065,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Ancho de la columna",
+    "value": "Column width",
     "createdAt": "2015-12-03T08:26:32.078Z",
     "updatedAt": "2015-12-03T08:26:32.078Z"
   },
@@ -1075,7 +1075,7 @@
     "locale": "en",
     "catalog": "Styles",
     "subCatalog": "Labels",
-    "value": "Derecha",
+    "value": "right",
     "createdAt": "2015-12-03T08:26:32.079Z",
     "updatedAt": "2015-12-03T08:26:32.079Z"
   },
@@ -1085,7 +1085,7 @@
     "locale": "en",
     "catalog": "Styles",
     "subCatalog": "Labels",
-    "value": "cursivas",
+    "value": "italic",
     "createdAt": "2015-12-03T08:26:32.079Z",
     "updatedAt": "2015-12-03T08:26:32.079Z"
   },
@@ -1105,7 +1105,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Formato de fecha",
+    "value": "Date format",
     "createdAt": "2015-12-03T08:26:32.080Z",
     "updatedAt": "2015-12-03T08:26:32.080Z"
   },
@@ -1165,7 +1165,7 @@
     "locale": "en",
     "catalog": "Modules",
     "subCatalog": "Labels",
-    "value": "Componente",
+    "value": "Component",
     "createdAt": "2015-12-03T08:26:32.082Z",
     "updatedAt": "2015-12-03T08:26:32.082Z"
   },
@@ -1175,7 +1175,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Guardar",
+    "value": "Save",
     "createdAt": "2015-12-03T08:26:32.083Z",
     "updatedAt": "2015-12-03T08:26:32.083Z"
   },
@@ -1185,7 +1185,7 @@
     "locale": "en",
     "catalog": "Common",
     "subCatalog": "Labels",
-    "value": "norte",
+    "value": "north",
     "createdAt": "2015-12-03T08:26:32.085Z",
     "updatedAt": "2015-12-03T08:26:32.085Z"
   },
@@ -1235,7 +1235,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Zona",
+    "value": "Edge",
     "createdAt": "2015-12-03T08:26:32.088Z",
     "updatedAt": "2015-12-03T08:26:32.088Z"
   },
@@ -1245,7 +1245,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Filtro de entrada",
+    "value": "filter in",
     "createdAt": "2015-12-03T08:26:32.088Z",
     "updatedAt": "2015-12-03T08:26:32.088Z"
   },
@@ -1255,7 +1255,7 @@
     "locale": "en",
     "catalog": "Common",
     "subCatalog": "Messages",
-    "value": "La actualización del registro falló.",
+    "value": "The item update is failed.",
     "createdAt": "2015-12-03T08:26:32.089Z",
     "updatedAt": "2015-12-03T08:26:32.089Z"
   },
@@ -1555,7 +1555,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Id del componente primario",
+    "value": "Primary component ID",
     "createdAt": "2015-12-03T08:26:32.000Z",
     "updatedAt": "2016-01-13T17:51:28.983Z"
   },
@@ -1565,7 +1565,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Campo primario",
+    "value": "Primary field",
     "createdAt": "2015-12-03T08:26:32.000Z",
     "updatedAt": "2016-01-13T17:52:02.847Z"
   },
@@ -1575,7 +1575,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Campo local",
+    "value": "Local field",
     "createdAt": "2015-12-03T08:26:32.104Z",
     "updatedAt": "2015-12-03T08:26:32.104Z"
   },
@@ -1615,7 +1615,7 @@
     "locale": "en",
     "catalog": "Filter",
     "subCatalog": "Labels",
-    "value": "Filtro",
+    "value": "Filter",
     "createdAt": "2015-12-10T19:59:31.000Z",
     "updatedAt": "2015-12-10T20:00:33.169Z"
   },
@@ -1635,7 +1635,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Tipo de mapa",
+    "value": "Map type",
     "createdAt": "2015-12-10T06:00:56.000Z",
     "updatedAt": "2015-12-10T06:17:58.948Z"
   },
@@ -1645,7 +1645,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "G.Latitud",
+    "value": "G.Latitude",
     "createdAt": "2015-12-10T06:00:56.000Z",
     "updatedAt": "2015-12-10T06:15:26.172Z"
   },
@@ -1655,7 +1655,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "G.Longitud",
+    "value": "G.Longitude",
     "createdAt": "2015-12-10T06:00:56.000Z",
     "updatedAt": "2015-12-10T06:17:41.678Z"
   },
@@ -1685,7 +1685,7 @@
     "locale": "en",
     "catalog": "Places",
     "subCatalog": "Labels",
-    "value": "G.Longitud",
+    "value": "G.Longitude",
     "createdAt": "2015-12-10T06:10:47.000Z",
     "updatedAt": "2015-12-10T06:12:49.643Z"
   },
@@ -1705,7 +1705,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Max. cifras decimales",
+    "value": "Max. fraction digits",
     "createdAt": "2015-12-13T07:22:25.000Z",
     "updatedAt": "2015-12-13T08:30:31.918Z"
   },
@@ -1715,7 +1715,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Min. cifras decimales",
+    "value": "Min. fraction digits",
     "createdAt": "2015-12-13T07:22:25.000Z",
     "updatedAt": "2015-12-13T08:30:38.144Z"
   },
@@ -1725,7 +1725,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Posfijo",
+    "value": "Postfix",
     "createdAt": "2015-12-13T07:22:25.000Z",
     "updatedAt": "2015-12-13T08:29:12.004Z"
   },
@@ -1735,7 +1735,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Prefijo",
+    "value": "Prefix",
     "createdAt": "2015-12-13T07:22:25.000Z",
     "updatedAt": "2015-12-13T08:29:20.812Z"
   },
@@ -1765,7 +1765,7 @@
     "locale": "en",
     "catalog": "Properties",
     "subCatalog": "Labels",
-    "value": "Opciones",
+    "value": "Options",
     "createdAt": "2016-01-13T23:29:25.000Z",
     "updatedAt": "2016-01-14T00:12:24.453Z"
   },
@@ -1885,7 +1885,7 @@
     "locale": "en",
     "catalog": "Common",
     "subCatalog": "Messages",
-    "value": "La eliminación del registro falló.",
+    "value": "The item deleting is failed.",
     "createdAt": "2016-01-27T06:34:10.000Z",
     "updatedAt": "2016-01-27T06:50:10.401Z"
   },
@@ -1895,7 +1895,7 @@
     "locale": "en",
     "catalog": "HTTP-status",
     "subCatalog": "Messages",
-    "value": "Operación no autorizada.",
+    "value": "Unauthorized operation.",
     "createdAt": "2016-01-27T06:47:28.000Z",
     "updatedAt": "2016-01-27T06:51:50.368Z"
   },
@@ -1905,7 +1905,7 @@
     "locale": "en",
     "catalog": "HTTP-status",
     "subCatalog": "Messages",
-    "value": "Se requiere autenticación.",
+    "value": "Authentication required.",
     "createdAt": "2016-01-28T06:56:26.000Z",
     "updatedAt": "2016-01-28T06:57:33.446Z"
   },
