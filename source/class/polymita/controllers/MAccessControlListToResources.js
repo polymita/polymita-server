@@ -35,6 +35,7 @@ qx.Mixin.define("polymita.controllers.MAccessControlListToResources", {
             var model = this.getModel(),
                 resourceTypeModel = this.getModel(polymita.models.ResourceType),
                 userModel = this.getModel(polymita.models.User),
+                resourceACLModel = this.getModel(polymita.models.ResourceACL),
                 resourceId = record.getId(),
                 resourceTypeName = model.getShortModelName();
 
@@ -44,14 +45,12 @@ qx.Mixin.define("polymita.controllers.MAccessControlListToResources", {
                         currentUserId = this.getSession().get('profile').localId;
 
                     userModel.find(currentUserId, function (err, user) {
-                        var acl = new polymita.models.ResourceACL({
+                        resourceACLModel.create({
                             resourceTypeId: resourceTypeId,
                             resourceId: resourceId,
                             roleId: user.getDefaultRoleId(),
                             permission: polymita.models.ResourceACL.PERMISSION.ALL
-                        });
-
-                        acl.save(function (err) {
+                        }, function (err, record) {
                             this.respondError(err) || done();
                         }, this);
                     }, this);
