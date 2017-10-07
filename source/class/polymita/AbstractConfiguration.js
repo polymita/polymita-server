@@ -39,21 +39,7 @@ qx.Class.define('polymita.AbstractConfiguration', {
 
         // override
         init: function () {
-            // Register database schemas.
-            var knexSetting = {
-                    client: 'pg',
-                    connection: 'postgres://polymita:polymita@127.0.0.1:5432/polymita',
-                    debug: true
-                },
 
-                jdbcSettings = {
-                    driver: 'org.postgresql.Driver',
-                    connectString: 'jdbc:postgresql://127.0.0.1:5432/polymita',
-                    username: 'polymita',
-                    password: 'polymita'
-                };
-
-            this.registerDBSchema(new polymita.schemas.Default(knexSetting, jdbcSettings));
         }
 
     }
