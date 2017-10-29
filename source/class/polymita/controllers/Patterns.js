@@ -1,11 +1,5 @@
 qx.Class.define("polymita.controllers.Patterns", {
-    extend: guaraiba.controllers.RestModelController,
-    implement: [
-        guaraiba.controllers.IAccessControlListToActions
-    ],
-    include: [
-        polymita.controllers.MAccessControlListToActions
-    ],
+    extend: polymita.controllers.I18ns,
 
     /**
      * @param request {guaraiba.Request}
@@ -14,11 +8,33 @@ qx.Class.define("polymita.controllers.Patterns", {
      */
     construct: function (request, response, params) {
         this.base(arguments, request, response, params);
-        this.setRecordClass(polymita.models.Pattern);
+        this.setRecordClass(polymita.models.I18n);
         this.setAcceptFilters(true);
         this.setDefaultOrder({ name: 'asc', createdAt: 'desc' });
 
         // Add action hooks.
         this.beforeAll('requireAuth');
+        this.beforeOnly('beforeSave', ['create', 'update']);
+    },
+
+    members: {
+        // override
+        applyCustomQueryConditions: function (qb, done) {
+            qb.andWhere({ catalog: 'Patterns', sub_catalog: 'Values' });
+            done.call(this, qb);
+        },
+
+        /**
+         * Set static params items value before save record.
+         * @param done {Function} Callback function.
+         */
+        beforeSave: function(done){
+            var params = this.getParams();
+
+            params.items.catalog = 'Patterns';
+            params.items.sub_catalog = 'Values';
+
+            done.call(this);
+        }
     }
 });

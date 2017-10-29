@@ -2,7 +2,6 @@ qx.Class.define("polymita.controllers.Users", {
     extend: guaraiba.controllers.RestModelController,
     implement: [
         guaraiba.controllers.IAccessControlListToActions
-
     ],
     include: [
         polymita.controllers.MAccessControlListToActions

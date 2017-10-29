@@ -34,9 +34,7 @@ qx.Class.define('polymita.schemas.Default', {
             this.register(polymita.models.Role);
             this.register(polymita.models.User);
             this.register(polymita.models.MembersOfRole);
-            this.register(polymita.models.Pattern);
             this.register(polymita.models.Place);
-            this.register(polymita.models.Filter);
             this.register(polymita.models.ResourceType);
             this.register(polymita.models.ResourceACL);
             this.register(polymita.models.Service);
