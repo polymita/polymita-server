@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "name": "CONFIRM-DELETE",
+    "name": "CONFIRM-DELETING",
     "locale": "es",
     "catalog": "Common",
     "subCatalog": "Messages",
@@ -91,7 +91,7 @@
   },
   {
     "id": 10,
-    "name": "CONFIRM-DELETE",
+    "name": "CONFIRM-DELETING",
     "locale": "es",
     "catalog": "Modules",
     "subCatalog": "Messages",
@@ -831,7 +831,7 @@
   },
   {
     "id": 84,
-    "name": "SUCCESSFUL-UPDATE",
+    "name": "SUCCESSFUL-UPDATING",
     "locale": "es",
     "catalog": "Common",
     "subCatalog": "Messages",
@@ -841,7 +841,7 @@
   },
   {
     "id": 85,
-    "name": "SUCCESSFUL-DELETE",
+    "name": "SUCCESSFUL-DELETING",
     "locale": "es",
     "catalog": "Common",
     "subCatalog": "Messages",
@@ -851,7 +851,7 @@
   },
   {
     "id": 86,
-    "name": "FAILED-ADD",
+    "name": "FAILED-ADDING",
     "locale": "es",
     "catalog": "Common",
     "subCatalog": "Messages",
@@ -861,7 +861,7 @@
   },
   {
     "id": 87,
-    "name": "SUCCESSFUL-ADD",
+    "name": "SUCCESSFUL-ADDING",
     "locale": "es",
     "catalog": "Common",
     "subCatalog": "Messages",
@@ -1271,7 +1271,7 @@
   },
   {
     "id": 128,
-    "name": "FAILED-UPDATE",
+    "name": "FAILED-UPDATING",
     "locale": "es",
     "catalog": "Common",
     "subCatalog": "Messages",
@@ -1911,7 +1911,7 @@
   },
   {
     "id": 192,
-    "name": "FAILED-DELETE",
+    "name": "FAILED-DELETING",
     "locale": "es",
     "catalog": "Common",
     "subCatalog": "Messages",

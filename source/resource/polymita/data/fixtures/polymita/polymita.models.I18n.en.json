@@ -11,7 +11,7 @@
   },
   {
     "id": 231,
-    "name": "CONFIRM-DELETE",
+    "name": "CONFIRM-DELETING",
     "locale": "en",
     "catalog": "Common",
     "subCatalog": "Messages",
@@ -81,7 +81,7 @@
   },
   {
     "id": 239,
-    "name": "CONFIRM-DELETE",
+    "name": "CONFIRM-DELETING",
     "locale": "en",
     "catalog": "Modules",
     "subCatalog": "Messages",
@@ -811,7 +811,7 @@
   },
   {
     "id": 313,
-    "name": "SUCCESSFUL-UPDATE",
+    "name": "SUCCESSFUL-UPDATING",
     "locale": "en",
     "catalog": "Common",
     "subCatalog": "Messages",
@@ -821,7 +821,7 @@
   },
   {
     "id": 314,
-    "name": "SUCCESSFUL-DELETE",
+    "name": "SUCCESSFUL-DELETING",
     "locale": "en",
     "catalog": "Common",
     "subCatalog": "Messages",
@@ -831,17 +831,17 @@
   },
   {
     "id": 315,
-    "name": "FAILED-ADD",
+    "name": "FAILED-ADDING",
     "locale": "en",
     "catalog": "Common",
     "subCatalog": "Messages",
-    "value": "The new item addition is failed.",
+    "value": "The new item adding is failed.",
     "createdAt": "2015-12-03T08:26:32.061Z",
     "updatedAt": "2015-12-03T08:26:32.061Z"
   },
   {
     "id": 316,
-    "name": "SUCCESSFUL-ADD",
+    "name": "SUCCESSFUL-ADDING",
     "locale": "en",
     "catalog": "Common",
     "subCatalog": "Messages",
@@ -1251,7 +1251,7 @@
   },
   {
     "id": 357,
-    "name": "FAILED-UPDATE",
+    "name": "FAILED-UPDATING",
     "locale": "en",
     "catalog": "Common",
     "subCatalog": "Messages",
@@ -1881,7 +1881,7 @@
   },
   {
     "id": 420,
-    "name": "FAILED-DELETE",
+    "name": "FAILED-DELETING",
     "locale": "en",
     "catalog": "Common",
     "subCatalog": "Messages",
@@ -2578,5 +2578,225 @@
     "value": "[Nomenclatures.Labels.SINGLE-ITEM-REFERENCE]",
     "createdAt": "2017-07-04T21:08:40.282Z",
     "updatedAt": "2017-07-04T21:08:40.282Z"
+  },
+  {
+    "id": 515,
+    "name": "MODULE-REFERENCE",
+    "locale": "en",
+    "catalog": "Provinces",
+    "subCatalog": "Labels",
+    "value": "Provinces",
+    "createdAt": "2017-10-07T02:14:01.725Z",
+    "updatedAt": "2017-10-07T03:19:30.279Z"
+  },
+  {
+    "id": 520,
+    "name": "FULLNAME",
+    "locale": "en",
+    "catalog": "Common",
+    "subCatalog": "Patterns",
+    "value": "[A-ZÁÉÍÓÚÜÑ][a-záéíóúüñ]+(( [a-z]{2,})? [A-ZÁÉÍÓÚÜÑ][a-zÁÉÍÓÚÜÑ]+)*",
+    "createdAt": "2017-10-07T03:02:22.821Z",
+    "updatedAt": "2017-10-07T03:06:17.400Z"
+  },
+  {
+    "id": 521,
+    "name": "USERNAME",
+    "locale": "en",
+    "catalog": "Common",
+    "subCatalog": "Patterns",
+    "value": "[0-9a-zA-Z_]+",
+    "createdAt": "2017-10-07T03:02:23.249Z",
+    "updatedAt": "2017-10-07T03:03:16.827Z"
+  },
+  {
+    "id": 523,
+    "name": "PASSWORDS",
+    "locale": "en",
+    "catalog": "Common",
+    "subCatalog": "patternns",
+    "value": ".*{6,}",
+    "createdAt": "2017-10-07T03:27:09.164Z",
+    "updatedAt": "2017-10-07T03:27:09.164Z"
+  },
+  {
+    "id": 524,
+    "name": "catalog",
+    "locale": "en",
+    "catalog": "Patterns",
+    "subCatalog": "Labels",
+    "value": "[Patterns.Labels.catalog]",
+    "createdAt": "2017-10-28T03:42:33.783Z",
+    "updatedAt": "2017-10-28T03:42:33.783Z"
+  },
+  {
+    "id": 525,
+    "name": "value",
+    "locale": "en",
+    "catalog": "Patterns",
+    "subCatalog": "Labels",
+    "value": "Pattern",
+    "createdAt": "2017-10-28T03:42:34.192Z",
+    "updatedAt": "2017-10-28T14:23:02.031Z"
+  },
+  {
+    "id": 526,
+    "name": "locale",
+    "locale": "en",
+    "catalog": "Common",
+    "subCatalog": "Labels",
+    "value": "Locale",
+    "createdAt": "2017-10-28T14:21:21.933Z",
+    "updatedAt": "2017-10-28T14:22:44.872Z"
+  },
+  {
+    "id": 527,
+    "name": "INTEGER",
+    "locale": "en",
+    "catalog": "Patterns",
+    "subCatalog": "Values",
+    "value": "^-?\\d+$",
+    "createdAt": "2017-10-28T14:37:41.214Z",
+    "updatedAt": "2017-10-29T03:39:05.967Z"
+  },
+  {
+    "id": 528,
+    "name": "subCatalog",
+    "locale": "en",
+    "catalog": "Patterns",
+    "subCatalog": "Labels",
+    "value": "[Patterns.Labels.subCatalog]",
+    "createdAt": "2017-10-28T23:15:20.448Z",
+    "updatedAt": "2017-10-28T23:15:20.448Z"
+  },
+  {
+    "id": 529,
+    "name": "ROLES",
+    "locale": "en",
+    "catalog": "Patterns",
+    "subCatalog": "Values",
+    "value": "^[A-Z][a-zA-Z\\d]*([ _-][a-zA-Z\\d]+)*",
+    "createdAt": "2017-10-28T23:16:45.202Z",
+    "updatedAt": "2017-10-29T03:46:22.169Z"
+  },
+  {
+    "id": 530,
+    "name": "LOCALE",
+    "locale": "en",
+    "catalog": "Patterns",
+    "subCatalog": "Values",
+    "value": "^[a-z]{2}$",
+    "createdAt": "2017-10-28T23:20:38.798Z",
+    "updatedAt": "2017-10-29T03:38:45.108Z"
+  },
+  {
+    "id": 531,
+    "name": "LOCALE",
+    "locale": "en",
+    "catalog": "Filters",
+    "subCatalog": "Values",
+    "value": "[a-z]",
+    "createdAt": "2017-10-28T23:25:13.187Z",
+    "updatedAt": "2017-10-28T23:25:13.187Z"
+  },
+  {
+    "id": 532,
+    "name": "ROLES",
+    "locale": "en",
+    "catalog": "Filters",
+    "subCatalog": "Values",
+    "value": "[\\w _-]",
+    "createdAt": "2017-10-28T23:49:40.928Z",
+    "updatedAt": "2017-10-29T03:46:52.281Z"
+  },
+  {
+    "id": 533,
+    "name": "FULLNAME",
+    "locale": "en",
+    "catalog": "Patterns",
+    "subCatalog": "Values",
+    "value": "^[A-ZÁÉÍÓÚÜÑ][a-záéíóúüñ]+( [A-ZÁÉÍÓÚÜÑ][a-záéíóúüñ]+)+$",
+    "createdAt": "2017-10-28T23:52:20.163Z",
+    "updatedAt": "2017-10-29T03:39:20.700Z"
+  },
+  {
+    "id": 534,
+    "name": "FULLNAME",
+    "locale": "en",
+    "catalog": "Filters",
+    "subCatalog": "Values",
+    "value": "[a-záéíóúüñA-ZÁÉÍÓÚÜÑ ]",
+    "createdAt": "2017-10-28T23:54:45.564Z",
+    "updatedAt": "2017-10-28T23:54:45.564Z"
+  },
+  {
+    "id": 535,
+    "name": "USERNAME",
+    "locale": "en",
+    "catalog": "Patterns",
+    "subCatalog": "Values",
+    "value": "^[a-z]+\\d*(\\.[a-z]+\\d*)?$",
+    "createdAt": "2017-10-28T23:57:44.913Z",
+    "updatedAt": "2017-10-28T23:57:44.913Z"
+  },
+  {
+    "id": 536,
+    "name": "USERNAME",
+    "locale": "en",
+    "catalog": "Filters",
+    "subCatalog": "Values",
+    "value": "[a-z0-9\\.]",
+    "createdAt": "2017-10-28T23:58:25.523Z",
+    "updatedAt": "2017-10-28T23:58:25.523Z"
+  },
+  {
+    "id": 537,
+    "name": "PASSWORD",
+    "locale": "en",
+    "catalog": "Patterns",
+    "subCatalog": "Values",
+    "value": "^.*(?=.{6,})(?=.*[a-z])(?=.*[A-Z])(?=.*d)(?=.*[W_ \"]).*$",
+    "createdAt": "2017-10-29T00:01:01.043Z",
+    "updatedAt": "2017-10-29T00:01:01.043Z"
+  },
+  {
+    "id": 538,
+    "name": "WORDS_WITHOUT_SPACES",
+    "locale": "en",
+    "catalog": "Patterns",
+    "subCatalog": "Values",
+    "value": "^[a-zA-Z]+\\w*([/_-]\\w+)*$",
+    "createdAt": "2017-10-29T03:29:41.241Z",
+    "updatedAt": "2017-10-29T03:50:43.770Z"
+  },
+  {
+    "id": 539,
+    "name": "WORDS_WITHOUT_SPACES",
+    "locale": "en",
+    "catalog": "Filters",
+    "subCatalog": "Values",
+    "value": "[\\w/_-]",
+    "createdAt": "2017-10-29T03:32:18.460Z",
+    "updatedAt": "2017-10-29T03:51:07.175Z"
+  },
+  {
+    "id": 540,
+    "name": "IP4",
+    "locale": "en",
+    "catalog": "Patterns",
+    "subCatalog": "Values",
+    "value": "[01]?[0-9]{1,2}|2[0-4][0-9]|25[0-5](\\.[01]?[0-9]{1,2}|2[0-4][0-9]|25[0-5]){3}",
+    "createdAt": "2017-10-29T19:05:45.710Z",
+    "updatedAt": "2017-10-29T19:05:45.710Z"
+  },
+  {
+    "id": 541,
+    "name": "IP4",
+    "locale": "en",
+    "catalog": "Filters",
+    "subCatalog": "Values",
+    "value": "\\d\\.",
+    "createdAt": "2017-10-29T19:06:15.461Z",
+    "updatedAt": "2017-10-29T19:06:15.461Z"
   }
 ]
