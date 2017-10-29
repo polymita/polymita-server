@@ -2575,9 +2575,9 @@
     "locale": "en",
     "catalog": "Nomenclatures",
     "subCatalog": "Labels",
-    "value": "[Nomenclatures.Labels.SINGLE-ITEM-REFERENCE]",
+    "value": "Nomenclature",
     "createdAt": "2017-07-04T21:08:40.282Z",
-    "updatedAt": "2017-07-04T21:08:40.282Z"
+    "updatedAt": "2017-10-29T19:42:26.109Z"
   },
   {
     "id": 515,
@@ -2620,16 +2620,6 @@
     "updatedAt": "2017-10-07T03:27:09.164Z"
   },
   {
-    "id": 524,
-    "name": "catalog",
-    "locale": "en",
-    "catalog": "Patterns",
-    "subCatalog": "Labels",
-    "value": "[Patterns.Labels.catalog]",
-    "createdAt": "2017-10-28T03:42:33.783Z",
-    "updatedAt": "2017-10-28T03:42:33.783Z"
-  },
-  {
     "id": 525,
     "name": "value",
     "locale": "en",
@@ -2658,16 +2648,6 @@
     "value": "^-?\\d+$",
     "createdAt": "2017-10-28T14:37:41.214Z",
     "updatedAt": "2017-10-29T03:39:05.967Z"
-  },
-  {
-    "id": 528,
-    "name": "subCatalog",
-    "locale": "en",
-    "catalog": "Patterns",
-    "subCatalog": "Labels",
-    "value": "[Patterns.Labels.subCatalog]",
-    "createdAt": "2017-10-28T23:15:20.448Z",
-    "updatedAt": "2017-10-28T23:15:20.448Z"
   },
   {
     "id": 529,
@@ -2798,5 +2778,15 @@
     "value": "\\d\\.",
     "createdAt": "2017-10-29T19:06:15.461Z",
     "updatedAt": "2017-10-29T19:06:15.461Z"
+  },
+  {
+    "id": 542,
+    "name": "SINGLE-ITEM-REFERENCE",
+    "locale": "en",
+    "catalog": "Components",
+    "subCatalog": "Labels",
+    "value": "Component",
+    "createdAt": "2017-10-29T19:40:03.230Z",
+    "updatedAt": "2017-10-29T19:42:15.145Z"
   }
 ]
