@@ -34,12 +34,22 @@ qx.Class.define("polymita.controllers.Users", {
             var items = this.getParams().items,
                 action = this.getActionName();
 
-            if (action == 'create' || items.password != undefined || items.username != undefined) {
+            if (action == 'create' || items.password != 'HIDDEN-WITHOUT-CHANGES') {
                 items.password = polymita.models.User.encryptedCredentials(items.username, items.password);
+            } else {
+                delete items.password;
             }
 
             // Continue normal workflow.
             proceed();
+        },
+
+        // override
+        _prepareItem: function (record, done) {
+            this.base(arguments, record, function (err, item) {
+                item.password = 'HIDDEN-WITHOUT-CHANGES';
+                done.call(this, err, item);
+            });
         }
     }
 });
