@@ -189,7 +189,7 @@
     "includeInSearch": true,
     "accessInAddForm": "W",
     "accessInEditForm": "W",
-    "properties": "{\"required\":true,\"minLength\":0,\"maxLength\":255,\"pattern\":\".*\",\"filterIn\":\".\",\"gridColumnWidth\":\"0\",\"gridRendererStyle\":{}}",
+    "properties": "{\"required\":true,\"minLength\":0,\"maxLength\":255,\"pattern\":\".*\",\"filterIn\":\".\",\"gridColumnWidth\":0,\"gridRendererStyle\":{}}",
     "validatorClass": null,
     "place": 5,
     "componentId": 2
@@ -540,7 +540,7 @@
     "includeInSearch": true,
     "accessInAddForm": "W",
     "accessInEditForm": "W",
-    "properties": "{\"required\":true,\"minLength\":0,\"maxLength\":255,\"value\":null,\"pattern\":\"PASSWORD\",\"gridColumnWidth\":\"\",\"gridRendererStyle\":{}}",
+    "properties": "{\"required\":true,\"minLength\":6,\"maxLength\":255,\"value\":null,\"pattern\":\"PASSWORD_MEDIUM\",\"gridColumnWidth\":\"\",\"gridRendererStyle\":{}}",
     "validatorClass": null,
     "place": 4,
     "componentId": 9

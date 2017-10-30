@@ -2731,13 +2731,13 @@
   },
   {
     "id": 537,
-    "name": "PASSWORD",
+    "name": "PASSWORD_MEDIUM",
     "locale": "en",
     "catalog": "Patterns",
     "subCatalog": "Values",
-    "value": "^.*(?=.{6,})(?=.*[a-z])(?=.*[A-Z])(?=.*d)(?=.*[W_ \"]).*$",
+    "value": "^(?=.*\\w)(?=.*\\d)(?=.*\\W)(?=.{6,})|(?=HIDDEN\\-WITHOUT\\-CHANGES$)",
     "createdAt": "2017-10-29T00:01:01.043Z",
-    "updatedAt": "2017-10-29T00:01:01.043Z"
+    "updatedAt": "2017-10-30T13:59:38.563Z"
   },
   {
     "id": 538,
@@ -2788,5 +2788,15 @@
     "value": "Component",
     "createdAt": "2017-10-29T19:40:03.230Z",
     "updatedAt": "2017-10-29T19:42:15.145Z"
+  },
+  {
+    "id": 543,
+    "name": "subCatalog",
+    "locale": "en",
+    "catalog": "Patterns",
+    "subCatalog": "Labels",
+    "value": "[Patterns.Labels.subCatalog]",
+    "createdAt": "2017-10-30T13:55:28.978Z",
+    "updatedAt": "2017-10-30T13:55:28.978Z"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "System administrator",
+    "name": "System Administrator",
     "username": "root",
     "password": "VTJGc2RHVmtYMS9UWFJwMlBqSk4zaTNZNWwyUjBub0pWNEppZDAwdWxpQT0=",
     "passport": "local",
@@ -11,11 +11,11 @@
     "expirationDate": "2050-12-17T00:00:00.000Z",
     "defaultRoleId": 1,
     "createdAt": "2015-12-03T08:26:32.257Z",
-    "updatedAt": "2017-10-28T13:19:53.180Z"
+    "updatedAt": "2017-10-30T14:02:29.636Z"
   },
   {
     "id": 2,
-    "name": "System development",
+    "name": "System Development",
     "username": "dev",
     "password": "VTJGc2RHVmtYMStSY1FkdW9NWCtza2pvY241VXNUbytHZ2JkK0JLMGxDST0=",
     "passport": "local",
@@ -25,6 +25,6 @@
     "expirationDate": "2050-01-15T00:00:00.000Z",
     "defaultRoleId": 2,
     "createdAt": "2016-01-13T22:48:27.260Z",
-    "updatedAt": "2017-10-28T23:40:35.309Z"
+    "updatedAt": "2017-10-30T14:01:33.049Z"
   }
 ]
